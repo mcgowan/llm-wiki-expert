@@ -2,4 +2,8 @@ name: llm-wiki-expert
 okf_version: '0.2'
 bundles_dir: bundles
 keep_raw: true
-bundles: {}
+bundles:
+  doac:
+    title: The Diary Of A CEO
+    description: Episodes of The Diary Of A CEO (@TheDiaryOfACEO) — Steven Bartlett's
+      interview podcast; long-form guest-expertise conversations mirrored as transcripts.
