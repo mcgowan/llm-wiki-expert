@@ -62,3 +62,5 @@ Von Hippel's through-line is that evolution built humans to need both autonomy a
 - [DEBATE: Feminist Women Vs Non-Feminist Women](/topics/debate-feminist-women-vs-non-feminist-women-ZHuZ_8VYCWA.md) — data behind the declining sex and marriage claims
 - [Simon Sinek: You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human!](/topics/simon-sinek-you-re-being-lied-to-about-ai-s-real-W4tqbEmplug.md) — autonomy and technology eroding social skills
 - [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](/topics/world-expert-on-love-your-brain-already-picked-y-hxsnk90VwCo.md) — evolutionary lens on modern mating and connection
+- [The Cancelled Professor: Men Are Hardwired To Cheat! - Dr Gad Saad](/topics/the-cancelled-professor-men-are-hardwired-to-che-1g9VX34MSUA.md) — fellow evolutionary psychologist on declining mating
+- [The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious!](/topics/the-happiness-expert-single-friends-will-keep-yo-qRY-foz-ZAw.md) — evolutionary account of trading connection for autonomy

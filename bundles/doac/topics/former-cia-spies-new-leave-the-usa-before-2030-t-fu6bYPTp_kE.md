@@ -58,3 +58,5 @@ The guests present espionage as a team sport of foundational discipline rather t
 - [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — same ex-CIA officer on the wider war risk
 - [CIA Whistleblower John Kiriakou: They Can See All Your Messages!](/topics/cia-whistleblower-john-kiriakou-they-can-see-all-yUNoJ32eLBc.md) — rival CIA insider account of agency conduct
 - [Top Intelligence Advisor: “Epstein Was A Front.” They Can See Everything, Even Your Messages!](/topics/top-intelligence-advisor-epstein-was-a-front-the-t38LbMVoPCs.md) — both urge personal exit strategies over institutional trust
+- [Former CIA Spy Reveals How They’re Controlling You! - Andrew Bustamante](/topics/former-cia-spy-reveals-how-theyre-controlling-yo-P_A8XElrAqA.md) — Bustamante returns with wife and Shadow Cell story
+- [CIA Spy: "Leave The USA Before 2030!" Why You Shouldn't Trust Your Gut! - Andrew Bustamante](/topics/cia-spy-leave-the-usa-before-2030-why-you-should-QVVe2rCHtN0.md) — Bustamante returns with wife on leaving America

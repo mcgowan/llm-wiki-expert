@@ -62,3 +62,6 @@ Walker's central message is that the fundamentals — regularity above all, plus
 - [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](/topics/vitamin-d-expert-the-supplement-world-is-giving-BbGv7GTbRN8.md) — counterpoint: insomnia as vitamin-D chemistry
 - [Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin](/topics/fat-loss-scientist-its-easy-to-lose-weight-but-h-dmz--DQty8o.md) — Galpin on undiagnosed sleep apnea wrecking recovery
 - [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — sleep as an Alzheimer's prevention lever
+- [The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep!](/topics/the-extreme-sleep-scientist-the-painful-trick-to-Desm53JJVMA.md) — both debunk sleep supplements and tracking obsession
+- [The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes](/topics/the-fitness-scientist-even-a-little-alcohol-is-h--Hwlvkfp698.md) — agrees sleep regularity beats sleep quantity
+- [The Woman Who Helps NBA Stars To Sleep: Stop Having Showers Just Before Bed! Dr Cheri Mah](/topics/the-woman-who-helps-nba-stars-to-sleep-stop-havi-fybq6V74qRk.md) — sleep extension versus regularity as the priority

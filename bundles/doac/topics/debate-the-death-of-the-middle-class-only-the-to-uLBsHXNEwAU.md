@@ -61,3 +61,4 @@ The guests present two competing but overlapping theories of middle-class declin
 - [Pierre Poilievre: Why America Is Quietly Abandoning Its Allies (& What Comes Next)](/topics/pierre-poilievre-why-america-is-quietly-abandoni-9JxaESJIGO0.md) — counterpoint — free-market fix vs wage-suppression critique
 - [EMERGENCY DEBATE: They Lied About The Economy Recovering! Is A Financial Apocalypse Coming?](/topics/emergency-debate-they-lied-about-the-economy-rec-4yohVh4qcas.md) — Priestley debating inequality against Nick Hanauer
 - [US ELECTION DEBATE: What Trump’s Return REALLY Means For The World! Is The UK About To Collapse?](/topics/us-election-debate-what-trumps-return-really-mea-qpBnYB0I6_0.md) — Priestley debates the economic hollowing-out again
+- [Tim Dillon (Comedian): The Boomers Are A Selfish Generation And Gen Z Has Exposed Society's Scam!](/topics/tim-dillon-comedian-the-boomers-are-a-selfish-ge-J5lAgTvbGS8.md) — debates who hollowed out middle-class mobility

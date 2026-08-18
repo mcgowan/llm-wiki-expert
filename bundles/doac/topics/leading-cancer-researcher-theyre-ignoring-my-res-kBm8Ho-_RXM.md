@@ -63,3 +63,5 @@ The guest's message to patients and families is that they are not helpless: he c
 - [World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!](/topics/world-no-1-fasting-expert-the-link-between-cance-jDG1m_b5Ih0.md) — fasting and glucose restriction as cancer therapy
 - [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](/topics/this-common-food-is-feeding-your-cancer-cells-dr-LgsJ3V9pIG0.md) — Seyfried's rival metabolic theory of cancer
 - [The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness?](/topics/the-keto-psychiatrist-what-keto-is-really-doing-B7tnfSPySb0.md) — ketogenic therapy against mainstream medical resistance
+- [The Cancer Doctor: "This Common Food Is Making Cancer Worse!"](/topics/the-cancer-doctor-this-common-food-is-making-can-VaVC3PAWqLk.md) — Seyfried's earlier case for metabolic cancer therapy
+- [Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism!](/topics/leading-harvard-doctor-the-shocking-link-between-3GVInaBCn_c.md) — same mitochondrial-disease theory applied to cancer

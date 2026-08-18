@@ -59,3 +59,4 @@ The episode is an extended airing of the disclosure movement's strongest claims,
 - [Neil deGrasse Tyson: The Whistleblowers Were Right About Aliens](/topics/neil-degrasse-tyson-the-whistleblowers-were-righ-PHpsdIHpLUE.md) — counterpoint — demands aliens, disputes disclosure claims
 - [World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku](/topics/world-renowned-physicist-they-are-lying-to-you-a-opB7_JXL0LA.md) — counterpoint — Kaku's evidence standards for UFOs
 - [Top Intelligence Advisor: “Epstein Was A Front.” They Can See Everything, Even Your Messages!](/topics/top-intelligence-advisor-epstein-was-a-front-the-t38LbMVoPCs.md) — claims of decades-long government cover-ups
+- [Ex-Pentagon Official: The U.S Isn't Telling The Truth! Top-Secret UFO Encounters Finally Uncovered!](/topics/ex-pentagon-official-the-u-s-isn-t-telling-the-t-ZkNVSju99HY.md) — same disclosure claim from other program insiders

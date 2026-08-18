@@ -62,3 +62,4 @@ The episode's through-line, on which all three guests converge despite deep disa
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — shared topic — the Iran strike he defends
 - [Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!](/topics/former-cia-spies-new-leave-the-usa-before-2030-t-fu6bYPTp_kE.md) — Andrew Bustamante returns on the Iran strike
 - [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — same Jacobsen-Bustamante-Radd panel after the Iran strike
+- [Former CIA Spy Reveals How They’re Controlling You! - Andrew Bustamante](/topics/former-cia-spy-reveals-how-theyre-controlling-yo-P_A8XElrAqA.md) — same guest debating Iran strike consequences

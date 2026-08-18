@@ -62,3 +62,5 @@ Beneath the alien headline, the guest's consistent argument is epistemic discipl
 - [UFO Roundtable: Former CIA Scientist Proves Aliens Exist!](/topics/ufo-roundtable-former-cia-scientist-proves-alien-V-z0k5xu1hM.md) — counterpoint — demands aliens, disputes disclosure claims
 - [World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku](/topics/world-renowned-physicist-they-are-lying-to-you-a-opB7_JXL0LA.md) — shared theme — physics, UFO evidence, simulation hypothesis
 - [Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it’s true)](/topics/neil-degrasse-tyson-the-harsh-truth-about-horosc-gW3vVIFRVhw.md) — same guest applying evidence standards to aliens instead
+- [Ex-Pentagon Official: The U.S Isn't Telling The Truth! Top-Secret UFO Encounters Finally Uncovered!](/topics/ex-pentagon-official-the-u-s-isn-t-telling-the-t-ZkNVSju99HY.md) — astrophysicist demands evidence from UAP whistleblowers
+- [Brian Keating: I’m Spending $200 Million To Explore Existence! How God Fits Into Science Explained!](/topics/brian-keating-im-spending-200-million-to-explore-LiIs5X56JMI.md) — fellow astrophysicist on Big Bang and simulation

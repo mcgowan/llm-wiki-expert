@@ -59,3 +59,4 @@ The guest's throughline is that the journey, not the destination, is where human
 - [Matthew McConaughey: The Silent Crisis No One Is Talking About! I Sabotaged My Own Career!](/topics/matthew-mcconaughey-the-silent-crisis-no-one-is-QMzxNfX-uAg.md) — shared warning that removing difficulty stunts growth
 - [Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)](/topics/brain-experts-warning-watch-this-before-using-ch-5wXlmlIXJOI.md) — shares thesis that AI atrophies human capability
 - [The Sex Psychologist: We're Not Having Enough Sex! Fat Makes You Attractive! Dr Bill Von Hippel](/topics/the-sex-psychologist-we-re-not-having-enough-sex-9gk3mNJs2FY.md) — autonomy and technology eroding social skills
+- [Simon Sinek: "Strong Thigh Muscles = More friends", This Is Why You Can't Make Friends!](/topics/simon-sinek-strong-thigh-muscles-more-friends-th-I3WUiD8HYn8.md) — same guest: AI atrophying the friendship skill

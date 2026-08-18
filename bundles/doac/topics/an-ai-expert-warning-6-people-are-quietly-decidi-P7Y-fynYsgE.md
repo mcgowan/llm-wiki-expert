@@ -60,3 +60,4 @@ Russell's message is that the extinction warnings come not from a fringe of "doo
 - [ChatGPT Offered Me $2m To Keep Quiet: No One Is Ready For What's Coming!](/topics/chatgpt-offered-me-2m-to-keep-quiet-no-one-is-re-_g4l7YkDQwA.md) — OpenAI insider quantifies the loss-of-control odds
 - [AI Whistleblower: We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao](/topics/ai-whistleblower-we-are-being-gaslit-by-ai-compa-Cn8HBj8QAbk.md) — counterpoint: power and labor, not extinction
 - [AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris](/topics/ai-expert-here-is-what-the-world-looks-like-in-2-BFU1OCkhBwo.md) — both blame winner-take-all AGI race incentives
+- [Ex Google CEO: AI Can Create Deadly Viruses! If We See This, We Must Turn Off AI! - Eric Schmidt](/topics/ex-google-ceo-ai-can-create-deadly-viruses-if-we-2Zg--ouGl7c.md) — Russell counters that regulation must precede adoption

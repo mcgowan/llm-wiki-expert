@@ -59,3 +59,4 @@ The guest's closing advice is that the lowest-hanging fruit is simply wearing a 
 - [Jeff Cavaliere: The TRUTH about Creatine! Melt Belly Fat With 1 Change!](/topics/jeff-cavaliere-the-truth-about-creatine-melt-bel-epAVydG6IxI.md) — neglected mobility roots of longevity, from spine to feet
 - [Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You’ll Die In A Year If This Happens!](/topics/peter-attia-anti-aging-cure-no-one-talks-about-5-ZxXruY7llcc.md) — training decades early to prevent late-life falls
 - [The Truth About Creatine & Exercise! 30% Of People Will Die From This! The Healthy Ageing Doctor](/topics/the-truth-about-creatine-exercise-30-of-people-w-ffgpqk5hZBE.md) — bone strength as the other half of frailty prevention
+- [Harvard Professor: They’re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman](/topics/harvard-professor-theyre-lying-to-you-about-runn-A-8tPmQtYqs.md) — extends the barefoot-running mismatch to modern footwear

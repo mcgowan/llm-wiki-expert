@@ -59,3 +59,5 @@ Hinton's closing message is that a chance remains to build AI that never wants t
 - [Godfather of AI: We Have 2 Years Before Everything Changes!](/topics/godfather-of-ai-we-have-2-years-before-everythin-zQ1POHiR8m8.md) — Bengio, his fellow deep-learning godfather, agrees
 - [Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat](/topics/ex-google-exec-warning-the-next-15-years-will-be-S9a1nLw70p0.md) — Gawdat accepts the dystopia Hinton warns against
 - [AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris](/topics/ai-expert-here-is-what-the-world-looks-like-in-2-BFU1OCkhBwo.md) — Harris explains the incentives driving the race
+- [The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein](/topics/the-professor-banned-from-speaking-out-we-need-t-_cFu-b5lTMU.md) — AI added to the existential-threat list
+- [Ex Google CEO: AI Can Create Deadly Viruses! If We See This, We Must Turn Off AI! - Eric Schmidt](/topics/ex-google-ceo-ai-can-create-deadly-viruses-if-we-2Zg--ouGl7c.md) — Hinton shares the engineered-bioweapon and cyberattack fears

@@ -65,3 +65,4 @@ De Becker's argument runs from the technical to the personal along a single line
 - [CIA Whistleblower John Kiriakou: They Can See All Your Messages!](/topics/cia-whistleblower-john-kiriakou-they-can-see-all-yUNoJ32eLBc.md) — insider account of mass surveillance ending privacy
 - [UFO Roundtable: Former CIA Scientist Proves Aliens Exist!](/topics/ufo-roundtable-former-cia-scientist-proves-alien-V-z0k5xu1hM.md) — claims of decades-long government cover-ups
 - [Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!](/topics/former-cia-spies-new-leave-the-usa-before-2030-t-fu6bYPTp_kE.md) — both urge personal exit strategies over institutional trust
+- [The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein](/topics/the-professor-banned-from-speaking-out-we-need-t-_cFu-b5lTMU.md) — shared distrust of captured institutions

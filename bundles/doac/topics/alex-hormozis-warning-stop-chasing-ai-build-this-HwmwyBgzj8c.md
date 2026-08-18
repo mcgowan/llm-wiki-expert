@@ -61,3 +61,4 @@ Hormozi's closing answer to the previous guest's question — what would you do 
 - [The Man Who Owns 4% Of All Bitcoin: "I Made $15 Billion By Using ChatGPT!" | Michael Saylor](/topics/the-man-who-owns-4-of-all-bitcoin-i-made-15-bill-1aGpJQ8BMLI.md) — contrasting angle — leveraging AI vs ignoring hype
 - [The Money Making Expert: The 7,11,4 Hack That Turns $1 Into $10K Per Month! Daniel Priestley](/topics/the-money-making-expert-the-7-11-4-hack-that-tur-sFkR34AMPw8.md) — brand as durable moat versus personal-brand playbook
 - [The Man That Makes Millionaires: Turn $0 to $10k With This Step By Step Formula! Alex Hormozi](/topics/the-man-that-makes-millionaires-turn-0-to-10k-wi-Kl-I7sUcAOY.md) — Hormozi returns applying focus doctrine to AI hype
+- [From My Garden Shed To $100m Business Empire! “That Letter Was The End Of Represent” - George Heaton](/topics/from-my-garden-shed-to-100m-business-empire-that-sb2kXdfJmww.md) — brand as the durable moat

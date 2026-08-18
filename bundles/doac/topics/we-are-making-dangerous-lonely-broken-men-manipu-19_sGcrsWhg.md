@@ -59,3 +59,6 @@ Greene's message to the lonely and aimless is double-edged: he absolves them of 
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — facing human nature's dark side as skill
 - [Sex Expert (Esther Perel): The Relationship Crisis No One Talks About That's Killing Your Sex Life!](/topics/sex-expert-esther-perel-the-relationship-crisis-QCaFWrT0j-g.md) — Perel names the social atrophy behind loneliness
 - [Corrupt Cop: I Had Sex With Girls In My Police Car, Arrested Drug Dealers, Then Sold Their Drugs!](/topics/corrupt-cop-i-had-sex-with-girls-in-my-police-ca-NSsx6mkiaf8.md) — Greene's dark side of human nature in practice
+- [Jimmy Carr: "There's A Crisis Going On With Men!"](/topics/jimmy-carr-there-s-a-crisis-going-on-with-men-uHLAazKUU68.md) — Robert Greene on purposeless, isolated young men
+- [Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women!](/topics/dr-k-we-are-producing-millions-of-lonely-addicte-P1ALkQMfkjc.md) — rival diagnosis of lonely purposeless young men
+- [The Manipulation Expert: You're Being Manipulated! Use Jealousy To Manipulate People! Robert Greene](/topics/the-manipulation-expert-you-re-being-manipulated-yrwSOMFZvHY.md) — Greene returns on shadow, envy and purpose

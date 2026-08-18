@@ -60,3 +60,4 @@ Ede's core message is that mental and physical diseases alike are downstream of 
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — Spector routes mood through the gut instead of ketones
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — ketogenic therapy against mainstream medical resistance
 - [Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!](/topics/tim-ferriss-the-hidden-nerve-that-controls-traum-GFyijjy1KdU.md) — Ferriss surveys metabolic psychiatry among depression treatments
+- [Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism!](/topics/leading-harvard-doctor-the-shocking-link-between-3GVInaBCn_c.md) — fellow psychiatrist on metabolic mental illness

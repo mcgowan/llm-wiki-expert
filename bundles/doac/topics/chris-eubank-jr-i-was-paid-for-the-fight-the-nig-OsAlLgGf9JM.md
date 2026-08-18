@@ -61,3 +61,6 @@ The guest presents the Benn fight as proof of his lifelong creed: pain tolerance
 - [Tom Aspinall Opens Up About Brain Damage & His Future In the UFC](/topics/tom-aspinall-opens-up-about-brain-damage-his-fut-puc5pZVsFPY.md) — combat athletes on fear, damage and career grind
 - [Matthew McConaughey: The Silent Crisis No One Is Talking About! I Sabotaged My Own Career!](/topics/matthew-mcconaughey-the-silent-crisis-no-one-is-QMzxNfX-uAg.md) — fatherhood and resistance as the making of men
 - [Louis Tomlinson: When The Police Knocked... I Just Knew! "The Room Was Cold That Day".](/topics/louis-tomlinson-when-the-police-knocked-i-just-k-lylGyddTiGg.md) — grief and family rupture behind a public career
+- [Mafia Boss: I Was Making $1.4 Million A Day! - Michael Franzese](/topics/mafia-boss-i-was-making-1-4-million-a-day-michae-S1JXKT7mf9A.md) — son's life reshaped by his father
+- [Francis Ngannou Breaks Down Sharing Heartbreaking Story: “I Don’t Know How To Deal With This!”](/topics/francis-ngannou-breaks-down-sharing-heartbreakin-4mmLOoloH3E.md) — combat athlete fighting through family grief
+- [Thierry Henry: I Was Depressed, Crying & Dealing With Trauma!](/topics/thierry-henry-i-was-depressed-crying-dealing-wit-aivpDPCP7Q8.md) — athlete shaped by chasing a father's approval

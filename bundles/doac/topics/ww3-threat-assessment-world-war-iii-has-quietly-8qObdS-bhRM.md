@@ -60,3 +60,6 @@ The guests close on personal defenses rather than geopolitical fixes. Radd teach
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — same Jacobsen-Bustamante-Radd panel after the Iran strike
 - [Professor Jiang: Is World War 3 Is About To Begin?](/topics/professor-jiang-is-world-war-3-is-about-to-begin-BTJGr78-zyw.md) — rival account of when World War III began
 - [The Iran War Expert: I Simulated The Iran War for 20 Years. Here’s What Happens Next](/topics/the-iran-war-expert-i-simulated-the-iran-war-for-xcXfcXJvMXg.md) — Pape models the miscalculation they fear
+- [Ex-CIA Spy: China Is Preparing & We're Not Paying Attention! Here's What Happens If They Takeover!](/topics/ex-cia-spy-china-is-preparing-we-re-not-paying-a-7-ZCglrexbo.md) — war already running as cyber and proxy conflict
+- [CIA Spy: "Leave The USA Before 2030!" Why You Shouldn't Trust Your Gut! - Andrew Bustamante](/topics/cia-spy-leave-the-usa-before-2030-why-you-should-QVVe2rCHtN0.md) — Bustamante debating the geopolitical transition he fears
+- [Minute By Minute Of What Happens If A Nuclear Bomb Hits & How To Survive It!](/topics/minute-by-minute-of-what-happens-if-a-nuclear-bo-asmaLnhaFiY.md) — Jacobsen argues the escalation path has already begun

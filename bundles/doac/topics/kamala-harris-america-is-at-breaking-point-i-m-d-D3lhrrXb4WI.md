@@ -60,3 +60,5 @@ Harris presents her story as both a personal reckoning and a warning: the guest 
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — opposing 2024 tickets giving their accounts of the election
 - [Former US Secretary: America Is On The BRINK, And We're Running Out Of Time! | Pete Buttigieg](/topics/former-us-secretary-america-is-on-the-brink-and-mF6uk7UOHBM.md) — campaign colleague on why restoring the status quo fails
 - [Michelle Obama: This Is A Scam! People Were Running From Us Because We Were Black!](/topics/michelle-obama-this-is-a-scam-people-were-runnin-D67eWcX2XYQ.md) — Black women in the White House on scrutiny and identity
+- [Reid Hoffman, LinkedIn Founder: It’s Time To Quit Your Job When You Feel This! Trump Will Punish Me!](/topics/reid-hoffman-linkedin-founder-its-time-to-quit-y-eTkFItOG3Kk.md) — the candidate whose backing he expects retaliation for
+- [Scott Galloway: "There Is A 33% Chance That Trump Dies In Office!"](/topics/scott-galloway-there-is-a-33-chance-that-trump-d-inwyi6Zdeo8.md) — the candidate's own account of that campaign

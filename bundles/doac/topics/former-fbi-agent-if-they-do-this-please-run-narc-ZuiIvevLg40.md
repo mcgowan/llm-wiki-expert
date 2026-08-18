@@ -61,3 +61,6 @@ Navarro's closing synthesis is that everyone is "in the people business," and th
 - [The Gaslighting Expert Jefferson Fisher: If They Do This, You're Being Manipulated!](/topics/the-gaslighting-expert-jefferson-fisher-if-they-ZPVdK9v0CK8.md) — spotting and escaping malignant narcissists
 - [Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They’re Lying!](/topics/oz-pearlman-mentalist-this-small-mistake-makes-p-4qfxHfBJ3Mw.md) — Navarro's nonverbal toolkit for reading people
 - [Corrupt Cop: I Had Sex With Girls In My Police Car, Arrested Drug Dealers, Then Sold Their Drugs!](/topics/corrupt-cop-i-had-sex-with-girls-in-my-police-ca-NSsx6mkiaf8.md) — law-enforcement veteran on the opposite moral track
+- [Mafia Boss: I Was Making $1.4 Million A Day! - Michael Franzese](/topics/mafia-boss-i-was-making-1-4-million-a-day-michae-S1JXKT7mf9A.md) — law enforcement counterpart on reading criminals
+- [Secret Agent: How To Detect A Lie Instantly! - Evy Poumpouras](/topics/secret-agent-how-to-detect-a-lie-instantly-evy-p-iz_SJ5TpLJ0.md) — federal interrogator on nonverbal deception cues
+- [The Behaviour Expert: Instantly Read Any Room & How To Hack Your Discipline! Chase Hughes](/topics/the-behaviour-expert-instantly-read-any-room-how-RvjR9GM2kX8.md) — behaviour profiling versus FBI nonverbal reading

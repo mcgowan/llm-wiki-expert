@@ -60,3 +60,4 @@ The episode presents Wood's thesis that a once-in-history convergence of AI, rob
 - [Billionaire's WARNING: I'm SELLING. The Crash Is Already Here!](/topics/billionaire-s-warning-i-m-selling-the-crash-is-a-32u5T6lO8qk.md) — Grantham calls the same AI story a bubble
 - [The Man Who Owns 4% Of All Bitcoin: "I Made $15 Billion By Using ChatGPT!" | Michael Saylor](/topics/the-man-who-owns-4-of-all-bitcoin-i-made-15-bill-1aGpJQ8BMLI.md) — Saylor shares the extreme Bitcoin price thesis
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — index-fund rebuttal to picking innovation winners
+- [The Investing & Crypto Expert: "We Only Have 6 Years Until Everything Changes!" - Raoul Pal](/topics/the-investing-crypto-expert-we-only-have-6-years-XyhhwVJB9Z4.md) — rival timelines for a tech-and-crypto boom

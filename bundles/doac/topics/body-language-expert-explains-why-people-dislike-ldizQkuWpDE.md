@@ -57,3 +57,4 @@ The guest's through-line is that connection is both a learnable skill and a negl
 - [Top Harvard Professor: The Psychology Of Why People Don't Like You!](/topics/top-harvard-professor-the-psychology-of-why-peop-TYXzR5KahEg.md) — warmth cues versus conversation content as likeability driver
 - [Secret Agent: Authenticity Is Quietly Sabotaging You! Do This & They'll Stop Respecting You!](/topics/secret-agent-authenticity-is-quietly-sabotaging-DazRYdqZRDI.md) — counterpoint on whether openness or restraint earns respect
 - [No. 1 Communication Expert: This Speaking Mistake Makes People Dislike You! Vinh Giang](/topics/no-1-communication-expert-this-speaking-mistake-oIiv_335yus.md) — gesture and vocal cues shaping first impressions
+- [Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes!](/topics/body-language-expert-stop-using-this-its-making-VHUrdELKjDw.md) — same guest expanding warmth-competence cue framework

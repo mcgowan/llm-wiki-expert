@@ -62,3 +62,4 @@ Unwin's core message is that metabolic disease is largely a consequence of every
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — complementary angle — carb restriction as metabolic therapy
 - [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](/topics/no-1-sugar-expert-you-ve-been-sold-a-lie-about-h-ZE_H7rijrVk.md) — clinical evidence that hidden sugar drives fatty liver
 - [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — Unwin reverses diabetes clinically with the same carb restriction
+- [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](/topics/exercise-doesn-t-make-you-lose-weight-doctor-jas-8RuWp3s6Uxk.md) — clinicians reversing type 2 diabetes by cutting carbs

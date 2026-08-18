@@ -61,3 +61,4 @@ Bulsiewicz's message is that the gut is remarkably forgiving — microbes reprod
 - [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](/topics/vitamin-d-expert-the-supplement-world-is-giving-BbGv7GTbRN8.md) — shared mechanism — repairing the gut microbiome
 - [5 Natural Medicines Big Pharma Are Hiding From You! No.1 Herbal Medicine Expert](/topics/5-natural-medicines-big-pharma-are-hiding-from-y-5Jk5XCLAr6w.md) — both prescribe spices and plant polyphenols for gut inflammation
 - [Insulin Doctor: The Fastest Way To Burn Dangerous Visceral Fat! I'm Finding Mould In My Patients!](/topics/insulin-doctor-the-fastest-way-to-burn-dangerous-gryta3KZKU4.md) — leaky gut as source of chronic inflammation
+- [The No.1 Poo & Gut Scientist: If Your Poo Looks Like This Go To A Doctor! Dr Will Bulsiewicz](/topics/the-no-1-poo-gut-scientist-if-your-poo-looks-lik-qqabbfk9wV8.md) — same gastroenterologist returning on repairing the microbiome

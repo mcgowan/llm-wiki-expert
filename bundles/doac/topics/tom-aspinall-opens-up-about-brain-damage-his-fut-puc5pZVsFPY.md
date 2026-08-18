@@ -64,3 +64,5 @@ Aspinall presents his rise as a case against the idea of talent revealing itself
 - [WORLD EXCLUSIVE: Dustin Poirier: "I Deleted Social Media After The Incident](/topics/world-exclusive-dustin-poirier-i-deleted-social-DM2jRSgjy1o.md) — UFC fighters facing CTE and retirement's void
 - [World's Greatest Climber: If I Had One Last Climb It Would Be...](/topics/world-s-greatest-climber-if-i-had-one-last-climb-ajgwabD4_HE.md) — both reframe fear as trained fuel
 - [The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!](/topics/the-no-1-brain-doctor-this-parenting-mistake-rui-bOi_Y4ythYY.md) — Amen's scans of contact-sport brain damage
+- [Ronda Rousey: I Kept This A Secret My Entire Career! WWE Is A Mess!](/topics/ronda-rousey-i-kept-this-a-secret-my-entire-care-ojNTQRW-SXM.md) — another champion confronting fight-induced brain damage
+- [Francis Ngannou Breaks Down Sharing Heartbreaking Story: “I Don’t Know How To Deal With This!”](/topics/francis-ngannou-breaks-down-sharing-heartbreakin-4mmLOoloH3E.md) — fellow UFC heavyweight on years of invisible grind

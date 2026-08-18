@@ -61,3 +61,6 @@ The guest's through-line is that body composition change is governed by a few bo
 - [Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin](/topics/fat-loss-scientist-its-easy-to-lose-weight-but-h-dmz--DQty8o.md) — Galpin adds sleep and personality to fat-loss basics
 - [Women's Exercise Debate: The 7 Weight Loss Lies Women Believe!](/topics/women-s-exercise-debate-the-7-weight-loss-lies-w-P1CeHGJOX5g.md) — same protein and lifting advice, women-specific version
 - [The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat!](/topics/the-nutritional-scientist-do-not-eat-after-9pm-l-eOnIWDMNyfE.md) — Aragon disputes that meal timing matters
+- [The Muscle Building Expert: They’re Lying To You About Workout Hours! Dr Michael Israetel](/topics/the-muscle-building-expert-theyre-lying-to-you-a-OTrTqs9FLq0.md) — minimum effective dose of protein and lifting
+- [The Anti-Obesity Doctor: If You Don't Exercise, This Is What's Happening To You! - Gabrielle Lyon](/topics/the-anti-obesity-doctor-if-you-don-t-exercise-th-2j3T4oYJPfI.md) — protein intake as the muscle-centric lever
+- [The Calories Expert: Health Experts Are Wrong About Calories & Diet Coke! Layne Norton](/topics/the-calories-expert-health-experts-are-wrong-abo-Znoi6tBtYRc.md) — allied evidence-based case for protein and adherence

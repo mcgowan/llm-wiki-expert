@@ -59,3 +59,6 @@ Ferriss's message is that both learning and healing yield to systematic deconstr
 - [Secret Buddhist Practice To Stop Self Hate & Overthinking!](/topics/secret-buddhist-practice-to-stop-self-hate-overt-vIbLQQ1i56Y.md) — Thubten treats the same pain without technology
 - [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](/topics/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — trauma as the treatable root beneath addiction
 - [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](/topics/stanford-neuroscientist-cant-remember-your-dream-m-nnyNZ0TQ0.md) — brain plasticity as the basis for meta-learning
+- [The No.1 Productivity Expert: 10,000 Hours Is A Lie! This Morning Habit Is Ruining Your Day!](/topics/the-no-1-productivity-expert-10-000-hours-is-a-l-MsERVcx0Qg8.md) — meta-learning as breadth-first skill acquisition
+- [The Body Trauma Expert: This Eye Movement Trick Can Fix Your Trauma! The Body Keeps The Score!](/topics/the-body-trauma-expert-this-eye-movement-trick-c-Qx5J5nwDBTo.md) — newer body-based tools: vagus stimulation and psychedelics
+- [Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti](/topics/leading-childhood-trauma-doctor-10-lies-they-tol-USE89i0kiiQ.md) — root-cause trauma treatments medicine underuses

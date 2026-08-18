@@ -1,0 +1,65 @@
+---
+type: Topic
+title: 'Adam Grant: 10 CRAZY Stats About Why Only 2% of the People Becomes Successful!'
+description: Organizational psychologist Adam Grant argues that hidden potential is unlocked by character skills rather than raw talent, and that much of what we believe about perfectionism, procrastination, brainstorming and leadership is backwards.
+tags:
+- adam-grant
+- organizational-psychology
+- hidden-potential
+- perfectionism
+- team-culture
+- creativity
+status: stable
+published_at: '2024-02-12T08:00:28+00:00'
+generated:
+  by: llm-wiki/0.1.0
+  at: '2026-08-18T05:13:44Z'
+verified:
+  by: llm-wiki-skill/claude
+  at: '2026-08-17T12:00:00Z'
+sources:
+- id: adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg
+  resource: https://www.youtube.com/watch?v=uPXjt6beYbg
+  title: 'Adam Grant: 10 CRAZY Stats About Why Only 2% of the People Becomes Successful!'
+---
+
+# Overview
+
+Organizational psychologist Adam Grant — author of *Originals*, *Think Again* and *Hidden Potential* — tells host Steven Bartlett that his job is "to study how to make work not suck," and that his mission as an author is less about beating the game than changing its rules[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg]. The conversation opens with a Ronaldo-versus-Messi argument about givers and takers: Grant says Ronaldo's style "does not scream giver," and cites NBA research showing teams with more narcissistic, ball-hogging stars fail to improve over a season, while Bartlett points to reporting that clubs declined after Ronaldo joined them[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+
+From there Grant works through a series of counterintuitive findings he says people get wrong. Perfectionism, he argues, is a risk factor for burnout and predicts better grades but not better job performance. Moderate procrastination boosts creativity, and what procrastinators avoid is negative emotion rather than hard work. Child prodigies rarely become adult geniuses, because early ease denies them practice at failure and reinvention. Brainstorming in a room produces fewer and worse ideas than the same people working alone. And the people who talk most in meetings get promoted into leadership even though talkativeness is not competence[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+
+Grant frames his own life as evidence for hidden potential: a stiff, height-fearing springboard diver nicknamed "Frankenstein" who became a Junior Olympic national qualifier; a shy introvert so nervous his students physically shook, who went on to give a TED Talk; a student assigned to remedial writing who became an author[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg]. His closing prescription is to build a "challenge network" of disagreeable givers, to ask for advice rather than feedback, and to think like a scientist — treating opinions as hypotheses and decisions as experiments — so that changing your mind becomes growth rather than threat[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+
+# Key points
+
+- Grant defines an "original" not as someone with a new idea but as someone who takes the initiative to create a better way, quoting the line that "ideation without execution is just hallucination"; he offers himself as a cautionary example, having co-founded a campus online social network in 1999 and shut it down on arrival at college, while a roommate coded a yearbook-style network in 2000 and abandoned it before Mark Zuckerberg started Facebook next door[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- He describes research with PhD student Jihae Shin showing moderate procrastinators are more creative than both precrastinators and chronic procrastinators, tested by tempting people with funny YouTube videos during creative tasks; the mechanisms he cites are idea incubation and psychological distance allowing reframing, and the effect only holds when you are intrinsically motivated by the problem[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Citing work led by Fuschia Sirois, Grant says we misdiagnose procrastination: it is not effort we avoid but negative emotions — frustration, boredom, confusion, anxiety and especially fear — so the fix is to identify which tasks stir which feelings and change those, as he did by rewriting paragraphs in the voices of Stephen King and poet Maggie Smith to make editing fun again[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- He recounts Michael Housman's data on 50,000 people showing Chrome and Firefox users are on average better job performers and stay longer than Safari or Internet Explorer users, and argues the browser is irrelevant — what matters is that installing a non-default browser signals a person who questions defaults, a trait he says shows up as resourcefulness on the job[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- On perfectionism, Grant cites research led by Thomas Curran finding it is a risk factor for burnout, and that perfectionists get better grades but perform no better at work; his hunch is that school is predictable enough to cram for while the real world is ambiguous, and perfectionists' terror of failure narrows them to what they already excel at[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- His coach Eric Best's line that "there's no such thing as a perfect 10 — a 10 is for excellence" became Grant's habit of setting a target score per project: a nine for a book he will spend two years on, about a six and a half for an Instagram post, "just above getting canceled," so that calibration rather than perfection governs effort[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Grant says most child prodigies do not become adult geniuses because "practice does make perfect, but it doesn't make new" — they master existing scores rather than write their own, get little experience of failure and trial and error, and are rewarded repeatedly for doing things the established way; what adult geniuses have instead are character skills, sponge-like absorption of information, and disciplined "imperfectionism"[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- He reframes the marshmallow test as "skill power, not willpower": the kids who wait use tactics — sitting on their hands, covering their eyes, squashing the marshmallow into a bouncing ball — and he notes the replication controversy showing lower-socioeconomic-status children struggle because in scarcity the second marshmallow may never come, so they never get to practice the habit[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- On birth order Grant issues "a giant disclaimer" that the science is a mess and the effects are tiny, but flags two consistent patterns: firstborns score slightly higher on IQ tests, which he attributes to the "tutor effect" of teaching younger siblings, and laterborns take more risks — citing Frank Sulloway's study of every pair of brothers in Major League Baseball, where laterborns were both more likely to attempt and more likely to succeed at stealing bases[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Risk-takers are more likely to become entrepreneurs, he says, but the most successful entrepreneurs take cautious, hedged risks; he illustrates with a dinner conversation in which Elon Musk put his odds of reaching Mars in his lifetime at roughly 7-8%, later revised to 11%, while the viable business underneath the Mars mission was reusable rockets — an instance of what Debra Meyerson and Maureen Scully call being a "tempered radical"[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Grant describes the "babble effect" — the more you talk in a meeting, the more likely you are to be picked as leader — as evidence that we mistake confidence for competence, and argues leadership should go to humble givers who put mission above ego; he also cites Baron and Hannan's 15-year startup study finding commitment cultures beat star cultures on survival and IPOs, but then grow more slowly because culture-fit hiring breeds homogeneity and groupthink[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- On interdependence he cites Boris Groysberg's finding that star Wall Street analysts take about five years to regain star performance after moving firms unless they bring their team, surgeons whose mortality advantage does not transfer between hospitals, pro basketball teams needing three to four years to gel, and a NASA simulator study in which well-rested stranger crews made more potentially catastrophic errors than exhausted crews who had flown together[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- He offers Pixar's hiring of Brad Bird after a commercial flop as the best self-disruption case he knows: told his film would cost half a billion dollars and take ten years, Bird recruited the "black sheep" and disgruntled — Grant's "disagreeable givers" — and delivered *The Incredibles* early and under budget, which is why Grant advises leaders to build a challenge network of trusted critics rather than only a support network[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Grant argues brainstorming loses to "brainwriting" because of production blocking, ego threat and the "HiPPO effect" (highest paid person's opinion); the alternative is individual idea generation, independent ratings collected before peers bias each other, then group development of the top ideas[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Drawing on Basima Tewfik's research, he says full impostor syndrome is rare while everyday "impostor thoughts" are common and can be useful fuel — motivating extra effort and better listening to close the gap between what others expect and what you feel ready for; he adds that if multiple people who know you well believe in you, "it's probably time to believe them"[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- To get honest input he recommends asking for advice rather than feedback, because feedback looks backward while advice looks forward; he illustrates with military leaders who wrote that they gained nothing from his session, then, when asked for advice, told him to stop leading with credentials — prompting the self-deprecating opener that broke the ice at the next session[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+- Grant distinguishes self-promotion ("look at me") from idea promotion, which he casts as generosity, and rejects the framing of personal branding in favour of reputation and values: "if I don't contradict myself I am failing to learn"; he also names the preacher, prosecutor and politician modes from Philip Tetlock, confessing to prosecutor mode and to being called a "logic bully," and prescribes thinking like a scientist instead[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+
+# Takeaways
+
+Grant's through-line is that potential is neither fixed nor visible in advance, and that most of the shortcuts we use to spot it — early talent, confidence, perfectionism, the loudest voice in the room — actively mislead us[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg]. His remedy is procedural rather than motivational: calibrate what "good enough" means for each task, build scaffolding and a challenge network around yourself, ask for advice instead of feedback, separate your beliefs from your identity, and stop waiting to feel ready — the confidence follows the leap, not the other way round[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg]. He closes on regret research, noting that our biggest long-run regrets are not our failures but our failures to try[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg].
+
+[^adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg]: "Adam Grant: 10 CRAZY Stats About Why Only 2% of the People Becomes Successful!", The Diary Of A CEO, YouTube, 2024-02-12 [Mirrored transcript](/references/adam-grant-10-crazy-stats-about-why-only-2-of-th-uPXjt6beYbg.md)
+
+# Related topics
+
+- [The No.1 Productivity Expert: 10,000 Hours Is A Lie! This Morning Habit Is Ruining Your Day!](/topics/the-no-1-productivity-expert-10-000-hours-is-a-l-MsERVcx0Qg8.md) — both debunk innate-talent and 10,000-hour myths
+- [The Man Who Wrote Atomic Habits: Your Goals Are Quietly Restricting Your Happiness | James Clear](/topics/the-man-who-wrote-atomic-habits-your-goals-are-q-rtufWBLOXgw.md) — character skills versus systems as change mechanism
+- [Top Harvard Professor: The Psychology Of Why People Don't Like You!](/topics/top-harvard-professor-the-psychology-of-why-peop-TYXzR5KahEg.md) — research showing social and team skills are learnable
+- [The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious!](/topics/the-happiness-expert-single-friends-will-keep-yo-qRY-foz-ZAw.md) — fellow behavioural scientist on satisfaction versus achievement

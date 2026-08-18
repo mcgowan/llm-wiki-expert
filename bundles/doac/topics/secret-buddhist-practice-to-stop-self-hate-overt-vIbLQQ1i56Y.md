@@ -59,3 +59,5 @@ The guest's message is that everything people chase — coffee, drugs, sex, succ
 - [Dopamine Expert: Doing This Once A Day Fixes Your Dopamine! What Alcohol Is Doing To Your Brain!](/topics/dopamine-expert-doing-this-once-a-day-fixes-your-R6xbXOp7wDA.md) — leaning into pain to restore balance
 - [No.1 Neuroscientist: you can change who you are in 30 days](/topics/no-1-neuroscientist-you-can-change-who-you-are-i-rCtvAvZtJyE.md) — neuroscience behind reconstructing painful emotional experience
 - [Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!](/topics/tim-ferriss-the-hidden-nerve-that-controls-traum-GFyijjy1KdU.md) — Thubten treats the same pain without technology
+- [Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma!](/topics/dr-martha-beck-oprah-s-life-coach-this-weird-tri-fajtQSCHfvE.md) — meditative alternative to breaking overthinking spirals
+- [The No.1 Celebrity Therapist: The WEIRD Trick To Get Your Sex Life Back! - Marisa Peer](/topics/the-no-1-celebrity-therapist-the-weird-trick-to-_y_vSmiNpBE.md) — opposing remedies for self-hatred: affirmation versus compassion

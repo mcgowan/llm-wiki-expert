@@ -60,3 +60,5 @@ Brunson's closing counsel, given to his own 14-year-old son, is to surround your
 - [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](/topics/world-expert-on-love-your-brain-already-picked-y-hxsnk90VwCo.md) — biology of attraction under the matchmaking advice
 - [World No.1 Divorce Lawyer: If You Do This, Your Marriage Is Already Over.](/topics/world-no-1-divorce-lawyer-if-you-do-this-your-ma-Uvy5mcLiWW0.md) — disagrees on whether longevity signals a good marriage
 - [Young Men Are (Quietly) Giving Up...Here’s Why!](/topics/young-men-are-quietly-giving-up-heres-why-li70iz1NaDY.md) — Logan Ury on the digitized dating market
+- [This Statistically Is The Best Age To Get Married So You Don't Get A Divorce!](/topics/this-statistically-is-the-best-age-to-get-marrie-SNuHbJbuUZE.md) — both attack expecting everything from one partner
+- [Paul Brunson: "The 70/30 Body Shape Is Scientifically The Most Sexy" & THIS Predicts Divorce!](/topics/paul-brunson-the-70-30-body-shape-is-scientifica-i2sHBL8BjWI.md) — same matchmaker on expecting too much from one partner

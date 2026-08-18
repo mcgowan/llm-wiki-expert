@@ -62,3 +62,6 @@ The episode presents Fallon's own account of how single-minded obsession — rei
 - [Scooter Braun: When Everything Broke, It Fixed Me](/topics/scooter-braun-when-everything-broke-it-fixed-me-j4z25zj6bmE.md) — public backlash cracking a people-pleasing mask
 - [Louis Tomlinson: When The Police Knocked... I Just Knew! "The Room Was Cold That Day".](/topics/louis-tomlinson-when-the-police-knocked-i-just-k-lylGyddTiGg.md) — losing a mother while famously visible
 - [MrBeast: If You Want To Be Liked, Don't Help People & I Lost Tens Of Millions On Beast Games!](/topics/mrbeast-if-you-want-to-be-liked-don-t-help-peopl-FjrJ2DJN_pA.md) — internet hate and unhappiness at the top
+- [Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!](/topics/simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE.md) — entertainer on losing his mother and public hate
+- [Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](/topics/trevor-noah-my-depression-was-linked-to-adhd-why-FsztuzyXdhY.md) — late-night host on the cost of the chair
+- [Rebel Wilson: I Used My Weight To My Advantage!](/topics/rebel-wilson-i-used-my-weight-to-my-advantage--xjneW1XZBs.md) — comedy career built on people-pleasing and rejection

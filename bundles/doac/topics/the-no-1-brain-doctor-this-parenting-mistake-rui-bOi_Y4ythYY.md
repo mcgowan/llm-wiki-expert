@@ -61,3 +61,4 @@ The guest's through-line is "brain envy": you have to want a better brain before
 - [The 6 Science Backed Brain Fixes Most People Are Ignoring!](/topics/the-6-science-backed-brain-fixes-most-people-are-Oipkl53n938.md) — compilation of the brain-repair levers he prescribes
 - [Child Attachment Expert: We're Stressing Newborns & It's Causing ADHD! Hidden Dangers Of Daycare!](/topics/child-attachment-expert-we-re-stressing-newborns-cialLfVZqm4.md) — both trace ADHD to early parenting environment
 - [Tom Aspinall Opens Up About Brain Damage & His Future In the UFC](/topics/tom-aspinall-opens-up-about-brain-damage-his-fut-puc5pZVsFPY.md) — Amen's scans of contact-sport brain damage
+- [Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](/topics/trevor-noah-my-depression-was-linked-to-adhd-why-FsztuzyXdhY.md) — psychiatrist on ADHD misdiagnosed as depression

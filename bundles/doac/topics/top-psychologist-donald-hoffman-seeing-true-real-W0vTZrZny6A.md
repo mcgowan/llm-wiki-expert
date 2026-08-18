@@ -65,3 +65,4 @@ Hoffman's practical summary, when Bartlett presses him for one, is two lines: lo
 - [No.1 Neuroscientist: you can change who you are in 30 days](/topics/no-1-neuroscientist-you-can-change-who-you-are-i-rCtvAvZtJyE.md) — perception as construction rather than direct reception
 - [World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku](/topics/world-renowned-physicist-they-are-lying-to-you-a-opB7_JXL0LA.md) — Kaku agrees perception is a survival-shaped fragment
 - [Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!](/topics/neuroscientist-dr-tara-swart-evidence-we-can-com-yfEQRqFo2bI.md) — both argue consciousness precedes the physical body
+- [Professor Brian Greene: The Threat of AI, Consciousness & The End of Humanity](/topics/professor-brian-greene-the-threat-of-ai-consciou-Qifsxitq_q4.md) — opposite claim: consciousness precedes physical spacetime

@@ -58,3 +58,5 @@ Tatem's overall case is that peptides are a legitimate, versatile class of medic
 - [Sex Expert: What Women Actually Need To Enjoy Sex](/topics/sex-expert-what-women-actually-need-to-enjoy-sex-PnpHwhTWw0c.md) — fellow urologist — hormones and sexual health
 - [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](/topics/dr-rachel-rubin-i-m-filled-with-rage-your-doctor-MM-Qhlxf1pM.md) — fellow urologist — hormone therapy medicine gaps
 - [Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera](/topics/get-your-sex-life-back-what-everyone-gets-wrong-IgW1jepnJp4.md) — another urologist on testosterone and men's health treatments
+- [Johann Hari: They’re Lying To You About The Side Effects Of Ozempic!](/topics/johann-hari-theyre-lying-to-you-about-the-side-e-0YMnHNIuK3M.md) — pharmacology of the GLP-1 peptides Hari took
+- [The Ozempic Expert: Ozempic Transforms Your Gut Microbiome! People Are Being Overdosed On Ozempic!](/topics/the-ozempic-expert-ozempic-transforms-your-gut-m-XDcESvzX58Y.md) — peptides beyond weight loss and FDA resistance

@@ -64,3 +64,5 @@ Across three quite different operating styles, the guests keep returning to the 
 - [The Money Making Expert: The 7,11,4 Hack That Turns $1 Into $10K Per Month! Daniel Priestley](/topics/the-money-making-expert-the-7-11-4-hack-that-tur-sFkR34AMPw8.md) — panelist Priestley details the distribution principle he cites
 - [Passive Income Expert: How To Make $10k Per Month In 90 Days!](/topics/passive-income-expert-how-to-make-10k-per-month-4QLWlcneJig.md) — concrete low-capital playbooks for the same thesis
 - [Mohnish Pabrai: FASTEST Way To Financial Freedom! Proven Playbook For Quitting Your 9-5 In 9 Months!](/topics/mohnish-pabrai-fastest-way-to-financial-freedom-qgeQ5kMVwRA.md) — cloning proven models with near-zero downside risk
+- [Codie Sanchez: They're Lying To You About How To Get Rich! How To Turn $0 Into $1M!](/topics/codie-sanchez-they-re-lying-to-you-about-how-to-IYu_PDPqKFc.md) — same guest debating starting from zero
+- [The Money Making Expert: The Exact Formula For Turning $100 into $100k Per Month! - Daniel Priestley](/topics/the-money-making-expert-the-exact-formula-for-tu-u0o3IlsEQbI.md) — Priestley with Sanchez and Hormozi on starting from zero

@@ -61,3 +61,6 @@ Dispenza's message is that people are not imprisoned by their pasts but by the p
 - [No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!](/topics/no-1-brain-scientist-your-brain-is-lying-to-you-hQaN5w3YwtM.md) — consciously choosing which internal self runs you
 - [Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!](/topics/shaolin-warrior-master-hidden-epidemic-nobody-ta-atejm2w2jWY.md) — both teach breaking automatic identity patterns
 - [Dopamine Expert: Doing This Once A Day Fixes Your Dopamine! What Alcohol Is Doing To Your Brain!](/topics/dopamine-expert-doing-this-once-a-day-fixes-your-R6xbXOp7wDA.md) — addiction to stress chemistry, examined clinically
+- [Mo Gawdat: A WARNING about Stress & Anxiety! This Is Causing 70% Of Heart Attacks In Young People!](/topics/mo-gawdat-a-warning-about-stress-anxiety-this-is-IxVNR0Om-lA.md) — both frame stress as an addiction to unlearn
+- [The No.1 Celebrity Therapist: The WEIRD Trick To Get Your Sex Life Back! - Marisa Peer](/topics/the-no-1-celebrity-therapist-the-weird-trick-to-_y_vSmiNpBE.md) — both claim identity can be reprogrammed deliberately
+- [Wim Hof: They’re Lying To You About Disease & Inflammation!](/topics/wim-hof-theyre-lying-to-you-about-disease-inflam-_vX-_fq-c50.md) — contested claims that mind can heal body

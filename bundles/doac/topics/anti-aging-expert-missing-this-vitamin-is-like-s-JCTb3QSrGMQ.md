@@ -60,3 +60,5 @@ Patrick's through-line is that aging is largely modifiable and that prevention b
 - [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — contrasting cases for supplementing versus sun exposure
 - [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](/topics/anti-aging-expert-stop-touching-receipts-immedia-PyhmvAL-iYw.md) — same guest Rhonda Patrick on visceral fat and toxins
 - [Anti-Aging Expert: Creatine Is The Fat Loss Secret Doctors Don’t Tell You - Dr. Darren Candow](/topics/anti-aging-expert-creatine-is-the-fat-loss-secre-Jk7RAkFN4vk.md) — Candow details the creatine protocol Patrick recommends
+- [Wim Hof: They’re Lying To You About Disease & Inflammation!](/topics/wim-hof-theyre-lying-to-you-about-disease-inflam-_vX-_fq-c50.md) — evidence review of sauna and cold hormesis
+- [I Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka](/topics/i-tested-100-000-people-s-dna-this-diet-will-kil-10enqcw2Qiw.md) — rival nutrient-deficiency toolkit with stronger evidence base

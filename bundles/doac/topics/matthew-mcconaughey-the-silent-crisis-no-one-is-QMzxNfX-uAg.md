@@ -63,3 +63,4 @@ The guest's core claim is that the modern promise of frictionless independence i
 - [Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!](/topics/jordan-b-peterson-you-need-to-listen-to-your-wif-Hik6OY-nk4c.md) — faith and sacrifice as antidote to frictionless individualism
 - [Simon Sinek: You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human!](/topics/simon-sinek-you-re-being-lied-to-about-ai-s-real-W4tqbEmplug.md) — shared warning that removing difficulty stunts growth
 - [Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!](/topics/kevin-hart-they-re-lying-to-you-about-how-to-bec-5sCGZAcXKWg.md) — resistance and career gambles as making men
+- [Jimmy Carr: "There's A Crisis Going On With Men!"](/topics/jimmy-carr-there-s-a-crisis-going-on-with-men-uHLAazKUU68.md) — both prescribe resistance and chosen difficulty

@@ -61,3 +61,4 @@ The episode stages three irreconcilable but overlapping accounts of the purpose 
 - [Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!](/topics/jordan-b-peterson-you-need-to-listen-to-your-wif-Hik6OY-nk4c.md) — debates whether meaning really requires religious truth
 - [No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)](/topics/no-1-christianity-expert-the-truth-about-christi-nrwNSSyKuD4.md) — Wes Huff argues the debate's Christian side
 - [Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it’s true)](/topics/neil-degrasse-tyson-the-harsh-truth-about-horosc-gW3vVIFRVhw.md) — counterpoint: cosmic perspective, not religion, supplies meaning
+- [Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women!](/topics/dr-k-we-are-producing-millions-of-lonely-addicte-P1ALkQMfkjc.md) — Dr K argues psychology against religious answers to purpose

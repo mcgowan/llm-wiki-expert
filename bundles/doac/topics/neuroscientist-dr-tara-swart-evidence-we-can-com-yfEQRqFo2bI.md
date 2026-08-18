@@ -58,3 +58,4 @@ The guest's argument is less a proof than an invitation: she asks listeners to "
 - [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](/topics/secret-to-living-without-fear-anxiety-forever-yo-G4hkYDjPSFs.md) — contested mind-body claims beyond mainstream science
 - [Louis Tomlinson: When The Police Knocked... I Just Knew! "The Room Was Cold That Day".](/topics/louis-tomlinson-when-the-police-knocked-i-just-k-lylGyddTiGg.md) — lived bereavement beside her grief science
 - [Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!](/topics/top-psychologist-donald-hoffman-seeing-true-real-W0vTZrZny6A.md) — both argue consciousness precedes the physical body
+- [Professor Brian Greene: The Threat of AI, Consciousness & The End of Humanity](/topics/professor-brian-greene-the-threat-of-ai-consciou-Qifsxitq_q4.md) — counterpoint arguing consciousness survives the body

@@ -60,3 +60,4 @@ The guest's account is a study in how purpose metabolizes grief: he argues that 
 - [Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!](/topics/neuroscientist-dr-tara-swart-evidence-we-can-com-yfEQRqFo2bI.md) — lived bereavement beside her grief science
 - [Scooter Braun: When Everything Broke, It Fixed Me](/topics/scooter-braun-when-everything-broke-it-fixed-me-j4z25zj6bmE.md) — music-industry fame colliding with private collapse
 - [Chris Eubank Jr: I Was Paid $***** For The Fight! The Night Before, Dad Finally Opened Up!](/topics/chris-eubank-jr-i-was-paid-for-the-fight-the-nig-OsAlLgGf9JM.md) — grief and family rupture behind a public career
+- [Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!](/topics/simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE.md) — One Direction from the artist's side, both grieving

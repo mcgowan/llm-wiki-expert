@@ -63,3 +63,4 @@ The guest's closing message is that pregnancy is a window of outsized influence:
 - [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](/topics/no-1-sugar-expert-you-ve-been-sold-a-lie-about-h-ZE_H7rijrVk.md) — allied attack on food marketing and hidden glucose
 - [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — Inchauspé applies glucose control to pregnancy
 - [The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat!](/topics/the-nutritional-scientist-do-not-eat-after-9pm-l-eOnIWDMNyfE.md) — shared attack on food marketing and glucose spikes
+- [Glucose Goddess: The 10 Glucose Hacks!](/topics/glucose-goddess-the-10-glucose-hacks-3esF-pNAM9c.md) — same guest applying glucose science to pregnancy

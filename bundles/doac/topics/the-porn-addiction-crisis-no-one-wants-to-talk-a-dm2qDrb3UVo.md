@@ -59,3 +59,6 @@ Dr. K's core message is that pornography addiction is a symptom of deeper starva
 - [Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!](/topics/jordan-b-peterson-you-need-to-listen-to-your-wif-Hik6OY-nk4c.md) — pornography and the sexless mating crisis diagnosed differently
 - [Young Men Are (Quietly) Giving Up...Here’s Why!](/topics/young-men-are-quietly-giving-up-heres-why-li70iz1NaDY.md) — the dating-market collapse driving male withdrawal
 - [DEBATE: Feminist Women Vs Non-Feminist Women](/topics/debate-feminist-women-vs-non-feminist-women-ZHuZ_8VYCWA.md) — clinical view of the pornography harms debated
+- [Dr K: "There Is A Crisis Going On With Men!", “We’ve Produced Millions Of Lonely, Addicted Males!”](/topics/dr-k-there-is-a-crisis-going-on-with-men-weve-pr-B_5N_aDu3u0.md) — Dr K on the porn side of male withdrawal
+- [Dr K: We Are Producing Millions Of Lonely, Addicted, Purposeless Men & Women!](/topics/dr-k-we-are-producing-millions-of-lonely-addicte-P1ALkQMfkjc.md) — Dr K applies the same addiction model to porn
+- [Dating Doctor: "Start Dating Like It's Your Job!" Dating Apps Are Impacting Us More Than We Realise!](/topics/dating-doctor-start-dating-like-it-s-your-job-da-PM9rgDBX9u0.md) — porn as substitute in a dating crisis

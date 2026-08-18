@@ -62,3 +62,4 @@ The guest's retrospective argument is that he "became the environment" — a pro
 - [Former FBI Agent: If They Do This Please RUN! Narcissists Favourite Trick To Control You!](/topics/former-fbi-agent-if-they-do-this-please-run-narc-ZuiIvevLg40.md) — law-enforcement veteran on the opposite moral track
 - [WORLD EXCLUSIVE: Dustin Poirier: "I Deleted Social Media After The Incident](/topics/world-exclusive-dustin-poirier-i-deleted-social-DM2jRSgjy1o.md) — arrest as the rock bottom that ends the lying
 - [We Are Making Dangerous, Lonely & Broken Men! - Manipulation Expert, Robert Greene! 48 Laws Of Power](/topics/we-are-making-dangerous-lonely-broken-men-manipu-19_sGcrsWhg.md) — Greene's dark side of human nature in practice
+- [Mafia Boss: I Was Making $1.4 Million A Day! - Michael Franzese](/topics/mafia-boss-i-was-making-1-4-million-a-day-michae-S1JXKT7mf9A.md) — other side of the same crime economy

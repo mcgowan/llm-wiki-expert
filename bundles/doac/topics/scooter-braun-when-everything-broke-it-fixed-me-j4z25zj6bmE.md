@@ -57,3 +57,5 @@ Braun's message is that rock bottom was the correction his success never provide
 - [Jimmy Fallon: I Didn't Expect It To Be This Brutal! The Hate Was Something I Wasn’t Prepared For!](/topics/jimmy-fallon-i-didn-t-expect-it-to-be-this-bruta-yHCtfU3syM4.md) — public backlash cracking a people-pleasing mask
 - [MrBeast: If You Want To Be Liked, Don't Help People & I Lost Tens Of Millions On Beast Games!](/topics/mrbeast-if-you-want-to-be-liked-don-t-help-peopl-FjrJ2DJN_pA.md) — driven mogul admitting success brought unhappiness
 - [Louis Tomlinson: When The Police Knocked... I Just Knew! "The Room Was Cold That Day".](/topics/louis-tomlinson-when-the-police-knocked-i-just-k-lylGyddTiGg.md) — music-industry fame colliding with private collapse
+- [Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!](/topics/simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE.md) — music mogul whose success masked a breakdown
+- [Rebel Wilson: I Used My Weight To My Advantage!](/topics/rebel-wilson-i-used-my-weight-to-my-advantage--xjneW1XZBs.md) — dismantling a lucrative persona to find yourself

@@ -59,3 +59,5 @@ The compilation's message, as framed by the host, is that brain health is the up
 - [No.1 Nitric Oxide Expert: Why You’re Always Tired and It’s Not Your Fault](/topics/no-1-nitric-oxide-expert-why-youre-always-tired-zECoaEZRRFU.md) — Bryan's nitric oxide segment sits in this compilation
 - [Anti-Aging Expert: Creatine Is The Fat Loss Secret Doctors Don’t Tell You - Dr. Darren Candow](/topics/anti-aging-expert-creatine-is-the-fat-loss-secre-Jk7RAkFN4vk.md) — Candow expands the creatine-for-brain segment
 - [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](/topics/stanford-neuroscientist-cant-remember-your-dream-m-nnyNZ0TQ0.md) — neuroplasticity claim developed by Eagleman
+- [The Brain Doctor: 5 Popular Habits That Will Kill Your Brain Health!](/topics/the-brain-doctor-5-popular-habits-that-will-kill-WLWbFVKFffM.md) — compilation collecting these brain-health levers
+- [The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!](/topics/the-exercise-neuroscientist-new-research-the-sho-5o-tRub-0pQ.md) — compilation of the same brain-health levers

@@ -59,3 +59,5 @@ Li's message is deliberately empowering rather than restrictive: since everyone 
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — food choices tuning microbiome-based defenses
 - [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](/topics/anti-aging-expert-stop-touching-receipts-immedia-PyhmvAL-iYw.md) — microplastics and endocrine disruptors as hidden threats
 - [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](/topics/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — both name alcohol as underrated cancer driver
+- [The Cancer Doctor: "This Common Food Is Making Cancer Worse!"](/topics/the-cancer-doctor-this-common-food-is-making-can-VaVC3PAWqLk.md) — rival food-and-cancer mechanism via angiogenesis and immunity
+- [No.1 Toxicologist: These Products Were Making Me Infertile And Are Harming Our Kids!](/topics/no-1-toxicologist-these-products-were-making-me-rObAX1r8r0s.md) — microplastics undermining the body's health defenses

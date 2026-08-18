@@ -61,3 +61,4 @@ Lembke's message is that the machinery of addiction is universal — the same pl
 - [The Man Who Wrote Atomic Habits: Your Goals Are Quietly Restricting Your Happiness | James Clear](/topics/the-man-who-wrote-atomic-habits-your-goals-are-q-rtufWBLOXgw.md) — the reward neuroscience underneath cue-craving-response-reward
 - [The Porn Addiction Crisis No One Wants to Talk About – Dr. K](/topics/the-porn-addiction-crisis-no-one-wants-to-talk-a-dm2qDrb3UVo.md) — urge surfing versus dopamine-reset abstinence for the same compulsion
 - [Chris Williamson: Fix This One Habit And 2026 Will Be Your Best Year!](/topics/chris-williamson-fix-this-one-habit-and-2026-wil-q_vZ4H3uW28.md) — science behind his phone-use reset
+- [Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!](/topics/andrew-huberman-you-must-control-your-dopamine-t-jSqCL7Npln0.md) — applies dopamine baseline reset to digital media

@@ -59,3 +59,5 @@ The closing positions crystallise the three philosophies: Yang says personal fin
 - [Early Retirement Expert: A House Vs Stocks... (Here Is The Truth)](/topics/early-retirement-expert-a-house-vs-stocks-here-i-99xyy1nUpug.md) — Bach's opposite case for home ownership
 - [The Man Who Owns 4% Of All Bitcoin: "I Made $15 Billion By Using ChatGPT!" | Michael Saylor](/topics/the-man-who-owns-4-of-all-bitcoin-i-made-15-bill-1aGpJQ8BMLI.md) — Saylor's maximalist version of the Bitcoin argument
 - [Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!](/topics/nischa-shah-theyre-lying-to-you-about-buying-a-h-NxTsA72O5x0.md) — roundtable version of the don't-buy-a-house argument
+- [The Savings Expert: Are You Under 45? You Won't Get A Pension! Don't Buy A House! - Jaspreet Singh](/topics/the-savings-expert-are-you-under-45-you-won-t-ge-RSyX_665sEw.md) — same guest debating Bitcoin versus index investing
+- [The Investing & Crypto Expert: "We Only Have 6 Years Until Everything Changes!" - Raoul Pal](/topics/the-investing-crypto-expert-we-only-have-6-years-XyhhwVJB9Z4.md) — Raoul Pal debating Bitcoin maximalism with peers

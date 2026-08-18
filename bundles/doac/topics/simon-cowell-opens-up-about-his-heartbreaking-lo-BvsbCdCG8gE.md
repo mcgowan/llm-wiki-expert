@@ -1,0 +1,65 @@
+---
+type: Topic
+title: Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!
+description: "Music and television executive Simon Cowell tells Steven Bartlett that losing his parents sent him into a workaholic depression only his son Eric pulled him out of, and that his career was built on staying an ordinary listener rather than an expert."
+tags:
+- simon-cowell
+- music-industry
+- grief
+- depression
+- one-direction
+- work-life-balance
+status: stable
+published_at: '2024-06-10T07:00:08+00:00'
+generated:
+  by: llm-wiki/0.1.0
+  at: '2026-08-18T05:13:44Z'
+verified:
+  by: llm-wiki-skill/claude
+  at: '2026-08-17T12:00:00Z'
+sources:
+- id: simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE
+  resource: https://www.youtube.com/watch?v=BvsbCdCG8gE
+  title: Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!
+---
+
+# Overview
+
+Simon Cowell walks Steven Bartlett through a career that began in an EMI Music Publishing post room on £18 a week and ended in a position where, by his own account, he no longer owns a mobile phone.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] The through-line he offers is not talent but persistence and a deliberate refusal to become an expert: he says he has never learned how a record is made and cannot read music, precisely so that he keeps hearing records the way a buyer hears them — a stance Bartlett recognises as the marketing discipline of staying in the consumer's perspective rather than the creator's.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+
+The emotional centre of the episode is bereavement. Cowell describes losing his father just as Westlife's album went to number one, and then his mother — "the most devastating thing that ever happened in my life" — after which he says he went into a downward spiral, becoming what he calls a vampire, working until seven or eight in the morning, putting on weight, feeling like a clown on television while "dying inside," and reaching a point where "what have I got to live for?"[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] He states plainly that he has suffered from depression in the past and still does at times, and that the phone call telling him Lauren was pregnant with his son Eric is what changed it: "he saved you in many respects — without question."[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+
+The rest of the conversation covers the reconstruction: a 2020 electric-bike crash that broke his back in three places and required a metal rod and a six-hour operation, the near-total year indoors that followed, therapy he began afterwards and now credits with reshuffling his priorities, and a working life now built on four-day weeks, no email after 5.30pm and long sleep.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] He is candid about his single regret with One Direction, and about what he tells young artists.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+
+# Key points
+
+- Cowell attributes his work ethic to his father, who worked loyally for a large corporation, was retired at 65, never heard from them again and died without money — which convinced Cowell he had to work for himself.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] Two pieces of parental advice recur throughout: his mother's "manners maketh the man," which he has now passed to his son, and his father's line that "everyone in life has a sign on their head and it says: make me feel important."[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- His early career was a sequence of near-misses and rejections: he walked out of a Tesco management interview after being berated for wearing jeans, rejected a civil service path whose chart showed his salary at 64, was thrown out of a film studio job after two months (the PAs paid his salary and hid him under desks), turned down a runner job on The Shining, and spent 18 months in the EMI post room asking every executive for a better job.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- Bartlett draws out the transferable lesson that Cowell was relentlessly curious from the bottom of the ladder — learning how publishing, catalogues and royalties worked, and seeing Kate Bush's cheques pass through the mail room — while most people in a post room learn only the post room.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- Given the unwanted country music song-plugging job that nobody in the office would speak to him about for six months, he locked himself in a room, listened to thousands of songs and placed a large number of covers — his first real success.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- Cowell describes engineering Sinitta's "So Macho" into the charts on a £5,000 handout after his backer shut the label: it flopped twice, so he asked the warehouse to withhold stock and accumulate back orders, then released them all in one week to force a top 40 entry and a Top of the Pops slot — his stated logic being that if radio producers would not play it, chart position would compel them to.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- When Fanfare collapsed he personally owed the bank nearly £500,000 after being encouraged to buy shares and buying a house, a Porsche and a gold credit card he did not understand; he sold everything, was bankrupt on paper, moved back in with his parents at 30, and remembers having about £5 to his name and apologising for a roughly 10p tip.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] He negotiated the debt down by half, found a new bank willing to back him on instinct, and was carried by lawyer Tony Russell — whom he had met when Russell sued him on George Michael's behalf over a mega-mix — who worked unpaid on the belief he would one day be repaid.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- He calls meeting Pete Waterman the most important day of his career and describes turning up at Waterman's studio every day for around 18 months making tea, unpaid, until Waterman asked why he was always there — Cowell's answer being "I'm trying to work out how you do it" — which eventually produced Sinitta's "Toy Boy."[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- His unconventional bets at BMG followed one rule — did not care what the record was so long as it sold. He signed the WWF wrestlers after learning they filled 80,000 Wembley seats in 27 minutes, despite a boss who literally got on her knees to beg him not to; the album went to number one in 28 countries. He did the same with Power Rangers and Zig and Zag, and found Robson & Jerome through the telesales staff, offering each £50,000 to record with no obligation to release — after which they realised he had knowingly made them a hit and were "happy and angry at the same time," going on to outsell Oasis over two years.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- His advice to unheard artists is to "make noise amongst the noise" rather than follow the herd — rearrange an old song rather than copy an original — and to accept the cost: "I would rather be mocked for being different than being safe."[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- He rejected Westlife on first showcase and signed them within 30 seconds of the second; a month later he learned Louis Walsh had dyed a member's hair blonde to sneak him back in. The band's number one arrived at the same time as the phone call telling him his father had died of a heart attack.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- On grief, Cowell says he genuinely believed his parents would live forever, that after losing them chart positions "meant nothing," that he now asks them questions in his head and knows what they would say, and that a moment when his young son looked at the sky and mentioned "Grandpa Eric and Julie" is when he started to believe they were still present.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- He explains his aversion to disloyalty — "when someone who you consider to be a friend rewrites the narrative afterwards" because things did not work out for them — as rooted in nothing ever having been handed to him, and says he is more thin-skinned than people assume.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- The 2020 crash required him to sign a form authorising life support to be switched off before surgery, and his pain receptors masked the damage for three days before the doctor warned him what was coming. He frames it as a net positive: it exposed how unfit he actually was, and he built from 20 paces in the garden to 20-30,000 steps a day.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- On therapy, which he started after that injury on the recommendation of two people in the industry, Cowell says his therapist Justin reshuffled his top-ten priorities so that "something that might have been number eight might have become number three," told him he overthinks, and that he does not believe anyone would see a great therapist and conclude they did not need it — insisting it is a strength rather than a weakness.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- On the workaholism he now regrets dragging others into, his advice to a 31-year-old is that creativity requires not being tired, that the fifth working day makes no real difference if the four are better, and that sleep is "the best medicine your body can have" — while still maintaining that there is no substitute for putting the hours in early, and that he would not bet the house on a 21-year-old who clocks off at 5.30.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- On One Direction, Cowell says his only regret is not owning the band's name — because the members each hold a share, any one of them can block a reunion tour, and he calls that "me being very very naive," adding that owning the name will be part of the deal on the boy band he is assembling next.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] He recalls telling the group never to complain about paparazzi, privacy or hours, not to hire a stylist, not to try to dance, and that in ten years they would look back on it as a blast — and predicted they would want to leave.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+- He says he no longer carries a mobile phone, keeping only a car phone he barely knows how to use, having noticed he was happier during the months each year he switched it off; the filter, he argues, is that genuinely important news still reaches him within seconds while gossip does not.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+
+# Takeaways
+
+Cowell's summary of what he would tell his son is to be good at something and be patient, because "the learning and the getting there is as enjoyable as being there" — he says he has been at his happiest broke and at his unhappiest wealthy, and that the real measure is whether Sunday night carries excitement about Monday.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] The legacy he names is twofold: achieving what he achieved without a head start, and treating people well — a habit he traces to being refused an autograph at about six years old and resolving never to say no to anyone since.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE] His parting counsel is to find the person smarter than you who will take you under their wing, and to earn it by showing you will put the work in; asked for the single decision with the biggest long-term impact, he answers: stop eating sugar.[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]
+
+[^simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE]: "Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!", The Diary Of A CEO, YouTube, 2024-06-10 [Mirrored transcript](/references/simon-cowell-opens-up-about-his-heartbreaking-lo-BvsbCdCG8gE.md)
+
+# Related topics
+
+- [Louis Tomlinson: When The Police Knocked... I Just Knew! "The Room Was Cold That Day".](/topics/louis-tomlinson-when-the-police-knocked-i-just-k-lylGyddTiGg.md) — One Direction from the artist's side, both grieving
+- [Jimmy Fallon: I Didn't Expect It To Be This Brutal! The Hate Was Something I Wasn’t Prepared For!](/topics/jimmy-fallon-i-didn-t-expect-it-to-be-this-bruta-yHCtfU3syM4.md) — entertainer on losing his mother and public hate
+- [Scooter Braun: When Everything Broke, It Fixed Me](/topics/scooter-braun-when-everything-broke-it-fixed-me-j4z25zj6bmE.md) — music mogul whose success masked a breakdown
+- [Thierry Henry: I Was Depressed, Crying & Dealing With Trauma!](/topics/thierry-henry-i-was-depressed-crying-dealing-wit-aivpDPCP7Q8.md) — elite career built on work that starved the person

@@ -61,3 +61,4 @@ Saylor's message fuses two convictions: that Bitcoin is "digital capital" — th
 - [Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!](/topics/alex-hormozis-warning-stop-chasing-ai-build-this-HwmwyBgzj8c.md) — contrasting angle — leveraging AI vs ignoring hype
 - [No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!](/topics/no-1-money-saving-experts-do-not-buy-a-house-put-XTGlde-Pbd8.md) — Saylor's maximalist version of the Bitcoin argument
 - [Invest in This – It’ll Be Worth $1.5 Million by 2030 | World Leading Investing Expert - Cathie Wood](/topics/invest-in-this-itll-be-worth-1-5-million-by-2030-ZznpMh0DegE.md) — Saylor shares the extreme Bitcoin price thesis
+- [The Investing & Crypto Expert: "We Only Have 6 Years Until Everything Changes!" - Raoul Pal](/topics/the-investing-crypto-expert-we-only-have-6-years-XyhhwVJB9Z4.md) — Bitcoin as the answer to currency debasement

@@ -60,3 +60,5 @@ The guest's overarching argument is that modern medicine and nutrition policy wa
 - [Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline!](/topics/insulin-doctor-this-is-the-first-sign-of-dementi-KVXnVe8eOkM.md) — Dr Boz extends insulin resistance to dementia
 - [The Fat Burning Expert: The REAL Reason You’re Not Losing Belly Fat (and How To Fix It Fast!)](/topics/the-fat-burning-expert-the-real-reason-youre-not-3C185Gkgg0U.md) — counterpoint: protein and calories over insulin
 - [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — glucose control versus insulin as the master lever
+- [Glucose Goddess: The 10 Glucose Hacks!](/topics/glucose-goddess-the-10-glucose-hacks-3esF-pNAM9c.md) — insulin rather than spikes as core lever
+- [Exercise Doesn't Make You Lose Weight! Doctor Jason Fung](/topics/exercise-doesn-t-make-you-lose-weight-doctor-jas-8RuWp3s6Uxk.md) — same insulin-over-calories model of fat storage

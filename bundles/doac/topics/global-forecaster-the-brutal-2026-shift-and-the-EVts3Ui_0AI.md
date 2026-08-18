@@ -60,3 +60,4 @@ Bremmer's closing register is guardedly optimistic: the last 50 years' big stori
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — shared theme — US as source of instability
 - [Pierre Poilievre: Why America Is Quietly Abandoning Its Allies (& What Comes Next)](/topics/pierre-poilievre-why-america-is-quietly-abandoni-9JxaESJIGO0.md) — shared theme — US unreliability toward allies
 - [The Man Warning The West: Trump Is Changing The World Behind The Scenes](/topics/the-man-warning-the-west-trump-is-changing-the-w-nJeU72Rgjh4.md) — shared theme — collapsed rules-based order
+- [Ex-CIA Spy: China Is Preparing & We're Not Paying Attention! Here's What Happens If They Takeover!](/topics/ex-cia-spy-china-is-preparing-we-re-not-paying-a-7-ZCglrexbo.md) — Bremmer's data on China winning technology race

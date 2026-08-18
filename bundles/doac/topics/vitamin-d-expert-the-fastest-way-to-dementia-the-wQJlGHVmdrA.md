@@ -64,3 +64,4 @@ Seheult's practical prescription is unglamorous and cheap: get outside for rough
 - [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](/topics/the-mitochondria-doctor-this-reverses-gray-hair-6xlmaorRY0w.md) — mitochondrial energy flow as the shared mechanism
 - [Anti-Aging Expert: Missing This Vitamin Is Like Smoking! The Truth About Creatine! - Rhonda Patrick](/topics/anti-aging-expert-missing-this-vitamin-is-like-s-JCTb3QSrGMQ.md) — contrasting cases for supplementing versus sun exposure
 - [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — lifestyle pillars for preventing dementia decades early
+- [The No.1 Eye Doctor: They’re Lying To You About Blue Light! The Truth About Floaters!](/topics/the-no-1-eye-doctor-theyre-lying-to-you-about-bl-SWjzjClBCO4.md) — indoor living and missing sunlight wavelengths

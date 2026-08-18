@@ -57,3 +57,4 @@ Wakeman's message is that addiction is a preventable, treatable, "good prognosis
 - [Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!](/topics/tim-ferriss-the-hidden-nerve-that-controls-traum-GFyijjy1KdU.md) — trauma as the treatable root beneath addiction
 - [WORLD EXCLUSIVE: Dustin Poirier: "I Deleted Social Media After The Incident](/topics/world-exclusive-dustin-poirier-i-deleted-social-DM2jRSgjy1o.md) — lived case of the drinking-and-trauma pattern described
 - [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](/topics/this-common-food-is-feeding-your-cancer-cells-dr-LgsJ3V9pIG0.md) — both name alcohol as underrated cancer driver
+- [The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes](/topics/the-fitness-scientist-even-a-little-alcohol-is-h--Hwlvkfp698.md) — medical case that no drinking level is safe

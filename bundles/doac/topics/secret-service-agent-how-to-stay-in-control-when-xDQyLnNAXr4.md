@@ -61,3 +61,4 @@ O'Neill's message is that the hardest conversations are won in preparation and c
 - [The Speaking Coach: The One Word All Liars Use! Stop Saying This Word, It's Making You Sound Weak!](/topics/the-speaking-coach-the-one-word-all-liars-use-st-zsuOSDb7gzQ.md) — PLAN framework for the same difficult conversations
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — the influence tactics his PLAN framework defends against
 - [Secret Agent: Authenticity Is Quietly Sabotaging You! Do This & They'll Stop Respecting You!](/topics/secret-agent-authenticity-is-quietly-sabotaging-DazRYdqZRDI.md) — another Secret Service framework for composure under pressure
+- [Secret Agent: How To Detect A Lie Instantly! - Evy Poumpouras](/topics/secret-agent-how-to-detect-a-lie-instantly-evy-p-iz_SJ5TpLJ0.md) — fellow Secret Service agent on charged conversations

@@ -57,3 +57,6 @@ The panelists disagree sharply on Trump himself — Galloway sees a convicted, i
 - [The Man Warning The West: Trump Is Changing The World Behind The Scenes](/topics/the-man-warning-the-west-trump-is-changing-the-w-nJeU72Rgjh4.md) — Kisin develops his Western-decline argument alone
 - [DEBATE: The Death Of The Middle Class! Only The Top 1% Will Survive!](/topics/debate-the-death-of-the-middle-class-only-the-to-uLBsHXNEwAU.md) — Priestley debates the economic hollowing-out again
 - [Young Men Are (Quietly) Giving Up...Here’s Why!](/topics/young-men-are-quietly-giving-up-heres-why-li70iz1NaDY.md) — Galloway expands the young-men crisis raised here
+- [Boris Johnson: "They Were Looking at Engineering the Virus” & “The Government Tried To Bribe Me!"](/topics/boris-johnson-they-were-looking-at-engineering-t-6bL24eHvwoc.md) — panel debates the post-Brexit UK economy
+- [Scott Galloway: "There Is A 33% Chance That Trump Dies In Office!"](/topics/scott-galloway-there-is-a-33-chance-that-trump-d-inwyi6Zdeo8.md) — same guest revisits after Trump won
+- [The Anti-Woke Expert: “We Are Witnessing The Fall Of The UK & The USA!” - Konstantin Kisin](/topics/the-anti-woke-expert-we-are-witnessing-the-fall-GbV6iW26h-Q.md) — Kisin debating DEI and decline on panel

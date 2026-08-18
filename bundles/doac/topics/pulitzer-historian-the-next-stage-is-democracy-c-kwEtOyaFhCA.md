@@ -61,3 +61,4 @@ Applebaum's closing counsel is that democracy's survival is a matter of choices,
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — counterpoint — Applebaum indicts Trump administration tactics
 - [America Is at Breaking Point, Is Gavin Newsom America’s Next President?](/topics/america-is-at-breaking-point-is-gavin-newsom-ame-1NLoTuRR3hE.md) — historian's autocracy playbook behind Newsom's democracy warning
 - [Ray Dalio: We’re Heading Into Very, Very Dark Times! America & The UK’s Decline Is Coming!](/topics/ray-dalio-were-heading-into-very-very-dark-times-49RT6SQ8n0Y.md) — Applebaum details the internal-conflict stage
+- [Yuval Noah Harari: An Urgent Warning They Hope You Ignore. More War Is Coming!](/topics/yuval-noah-harari-an-urgent-warning-they-hope-yo-UzOJiqN_DpM.md) — historian's mechanics of the liberal order unravelling

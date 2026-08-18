@@ -60,3 +60,4 @@ Komisar's closing charge is that caregiving is the one thing parents cannot dele
 - [The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!](/topics/the-no-1-brain-doctor-this-parenting-mistake-rui-bOi_Y4ythYY.md) — both trace ADHD to early parenting environment
 - [Young Men Are (Quietly) Giving Up...Here’s Why!](/topics/young-men-are-quietly-giving-up-heres-why-li70iz1NaDY.md) — early attachment gaps versus fatherlessness in boys
 - [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](/topics/world-expert-on-love-your-brain-already-picked-y-hxsnk90VwCo.md) — disputes which parent matters most early on
+- [Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti](/topics/leading-childhood-trauma-doctor-10-lies-they-tol-USE89i0kiiQ.md) — early-years stress as origin of adult illness

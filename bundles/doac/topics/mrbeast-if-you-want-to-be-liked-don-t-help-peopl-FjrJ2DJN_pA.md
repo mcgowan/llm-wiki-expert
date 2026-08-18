@@ -64,3 +64,5 @@ The guest's account inverts the usual creator-success story: the moat is not tal
 - [Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!](/topics/kevin-hart-they-re-lying-to-you-about-how-to-bec-5sCGZAcXKWg.md) — obsession and suffering as competitive moat
 - [Scooter Braun: When Everything Broke, It Fixed Me](/topics/scooter-braun-when-everything-broke-it-fixed-me-j4z25zj6bmE.md) — driven mogul admitting success brought unhappiness
 - [The Man That Makes Millionaires: Turn $0 to $10k With This Step By Step Formula! Alex Hormozi](/topics/the-man-that-makes-millionaires-turn-0-to-10k-wi-Kl-I7sUcAOY.md) — Hormozi systematizes MrBeast's volume-and-obsession approach
+- [The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious!](/topics/the-happiness-expert-single-friends-will-keep-yo-qRY-foz-ZAw.md) — case study in achievement without happiness
+- [MrBallen (Former Navy SEAL): If You Feel Lost, Here's How To Turn Your Life Around In 2025!](/topics/mrballen-former-navy-seal-if-you-feel-lost-here-rDyTyppGxSg.md) — storytelling creators on YouTube obsession and craft

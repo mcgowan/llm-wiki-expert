@@ -59,3 +59,4 @@ The guest's overarching argument is that decades of silent excess insulin — dr
 
 - [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](/topics/the-insulin-glucose-doctor-this-will-strip-your-NyFSkGMWP5Q.md) — Dr Boz extends insulin resistance to dementia
 - [The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness?](/topics/the-keto-psychiatrist-what-keto-is-really-doing-B7tnfSPySb0.md) — keto applied to brain fog and mental illness
+- [Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism!](/topics/leading-harvard-doctor-the-shocking-link-between-3GVInaBCn_c.md) — ketogenic treatment of brain fog and dementia

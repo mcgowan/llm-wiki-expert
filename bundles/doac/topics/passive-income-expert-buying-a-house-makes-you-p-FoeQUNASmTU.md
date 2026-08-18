@@ -60,3 +60,5 @@ Collins's message, as he presents it, is that wealth is a solved problem for any
 - [No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!](/topics/no-1-money-saving-experts-do-not-buy-a-house-put-XTGlde-Pbd8.md) — Collins agrees your home isn't an investment
 - [Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!](/topics/kevin-o-leary-every-time-you-get-paid-do-this-it-mpAZehPviLQ.md) — same automatic-savings-into-index-funds prescription
 - [Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!](/topics/nischa-shah-theyre-lying-to-you-about-buying-a-h-NxTsA72O5x0.md) — JL Collins makes the same anti-homeownership case
+- [The Savings Expert: Are You Under 45? You Won't Get A Pension! Don't Buy A House! - Jaspreet Singh](/topics/the-savings-expert-are-you-under-45-you-won-t-ge-RSyX_665sEw.md) — agrees your home is a liability not investment
+- [Ramit Sethi: Never Split The Bill, It's A Red Flag & Renting Isn't Wasting Money!](/topics/ramit-sethi-never-split-the-bill-it-s-a-red-flag-pz6jhMPA-2w.md) — both attack the buy-a-house default

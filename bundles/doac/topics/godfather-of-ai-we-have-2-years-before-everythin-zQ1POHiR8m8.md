@@ -59,3 +59,4 @@ Bengio's closing stance is that optimism versus pessimism is the wrong question 
 - [AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris](/topics/ai-expert-here-is-what-the-world-looks-like-in-2-BFU1OCkhBwo.md) — both argue public pressure can still slow the race
 - [ChatGPT Offered Me $2m To Keep Quiet: No One Is Ready For What's Coming!](/topics/chatgpt-offered-me-2m-to-keep-quiet-no-one-is-re-_g4l7YkDQwA.md) — insider timeline for the racing dynamic Bengio fears
 - [The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy](/topics/the-ai-safety-expert-these-are-the-only-5-jobs-t-UclrVWafRAI.md) — Yampolskiy denies any superintelligence can be made safe
+- [Yuval Noah Harari: An Urgent Warning They Hope You Ignore. More War Is Coming!](/topics/yuval-noah-harari-an-urgent-warning-they-hope-yo-UzOJiqN_DpM.md) — Bengio on self-directed AI and power concentration

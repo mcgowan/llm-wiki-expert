@@ -59,3 +59,4 @@ Tyson's through-line is that meaning is made, not found: he stopped searching fo
 - [No.1 Christianity Expert: If You DON'T Believe In a God You NEED to Hear This!](/topics/no-1-christianity-expert-if-you-don-t-believe-in-dLrvJeSugkM.md) — direct rebuttal that atheism undermines scientific rationality
 - [Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!](/topics/top-psychologist-donald-hoffman-seeing-true-real-W0vTZrZny6A.md) — clashing claims about whether objective reality is knowable
 - [Atheist vs Christian vs Spiritual Thinker: Is Not Believing In God Causing More Harm Than Good?!](/topics/atheist-vs-christian-vs-spiritual-thinker-is-not-Esu8BXLBmZ4.md) — counterpoint: cosmic perspective, not religion, supplies meaning
+- [Professor Brian Greene: The Threat of AI, Consciousness & The End of Humanity](/topics/professor-brian-greene-the-threat-of-ai-consciou-Qifsxitq_q4.md) — fellow physicist on meaning made, not found

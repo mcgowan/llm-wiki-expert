@@ -1,0 +1,68 @@
+---
+type: Topic
+title: 'Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!'
+description: Research psychologist Dr Sarah Hill argues that because sex hormones help construct the self, hormonal birth control changes who a woman is — her mood, stress response, libido and even which partners she finds attractive — and that women are rarely told this before being prescribed it.
+tags:
+- sarah-hill
+- hormonal-birth-control
+- evolutionary-psychology
+- womens-health
+- mating-preferences
+- mental-health
+status: stable
+published_at: '2024-11-25T08:00:14+00:00'
+generated:
+  by: llm-wiki/0.1.0
+  at: '2026-08-18T05:13:44Z'
+verified:
+  by: llm-wiki-skill/claude
+  at: '2026-08-17T12:00:00Z'
+sources:
+- id: women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ
+  resource: https://www.youtube.com/watch?v=MGposaKNJKQ
+  title: 'Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your
+    Partner!'
+---
+
+# Overview
+
+Dr Sarah Hill, a research psychologist and professor and author of *This Is Your Brain on Birth Control*, tells host Steven Bartlett that her mission is to help women understand themselves "as themselves" rather than as, in her closing phrase, "some sort of a malfunctioning male"[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. She is careful to state the case for the pill first: nothing has been more instrumental to women's political and economic independence, and its effect on women's ability to plan — to attend university, to pursue advanced degrees — is why college classrooms are now majority female[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. Which is precisely why, she says, criticising it feels dangerous, as though speaking too loudly might get it taken away[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+
+Her own turn to the subject was personal. Hill was on hormonal contraception for more than a decade while professionally studying women's brains and publishing on cyclical hormones, and says she noticed nothing at the time; roughly three months after stopping, she realised she was feeling things more deeply, exercising, cooking, downloading music, interested in sex and in pleasure generally — "it was like I woke up"[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. Discovering that researchers had been documenting these effects for as long as thirty years, and that she — of all people — had not known, is what led to the book[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+
+Roughly the first half of the episode is evolutionary psychology rather than pharmacology: why women are hypergamous, why men take more risks, why attractiveness predicts women's social mobility, and what the sex ratio on campuses does to dating. Hill's framing throughout is that these are inherited tendencies rather than prescriptions, and that understanding them gives people "greater appreciation for the kinds of decisions that we actually end up making"[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+
+# Key points
+
+- Hill describes a "mating crisis" flagged by her former mentor David Buss — women remain hypergamous, preferring partners at or above their own educational and economic level, but in a population where women are on average more educated than men that pool narrows, and many women are choosing to stay single rather than partner "down"[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- She grounds the preference in evolutionary history rather than patriarchy, arguing that male control of resources is largely an epiphenomenon of female demand — "without women all the power and money in the world would be completely meaningless," she quotes Aristotle Onassis — and that men compete for resources partly because women require them[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- On sex differences in risk, Hill invokes the Bateman principle — male fitness can rise with each additional partner while female fitness tops out — to explain both male entrepreneurial appetite and male hubris, adding that men's exaggerated optimism helps them attract mates because "they're buying their own story"[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- She walks through the menstrual cycle in detail, with estrogen rising sharply around day nine and peaking around day fourteen at ovulation, and says the fertile window brings increased sexual desire, more sex, more masturbation and more exacting partner preferences[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- The canonical evidence she cites for shifting preferences is a study in which women gave daily saliva samples across two cycles while rating male faces whose owners' average morning testosterone the researchers had already measured — women's preference for higher-testosterone faces tracked their own estrogen, a pattern she summarises as "estrogen loves testosterone"; the same shift appears for vocal masculinity and behavioural dominance[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Her explanation for why testosterone reads as a fitness cue is that it is immunosuppressive, so high levels signal an immune system robust enough to withstand the suppression; she also notes that men with higher testosterone are more likely to be partnered when followed over time, and that testosterone dips both on entering a long-term relationship and again on caring for children, which she frames as adaptive rather than pathological[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Mechanically, Hill explains that hormonal contraceptives deliver a progestin that signals the hypothalamus not to stimulate the ovaries, so the woman's own estrogen stays low and the daily hormonal message never varies — flatlining the pre-ovulatory estrogen surge that drives desire, sexual function and preference for masculine cues[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- She adds a second libido mechanism: the synthetic hormones raise sex hormone binding globulin, released by the liver, which binds free testosterone, leaving women on hormonal birth control with free testosterone levels she puts at about 60% lower than naturally cycling peers[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- On the episode's headline claim, Hill describes a longitudinal study of married couples who met while the woman was on the pill and were followed after she discontinued it: women partnered to more attractive men became more attracted and more sexually satisfied, while women partnered to less attractive men became less attracted and less satisfied[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- She immediately damps the alarm, stressing that hormones "nudge" rather than transform, that most women who come off the pill experience no relationship upheaval, and that the people affected are those already teetering at the edge of attraction — though she says she has spoken to women whose experience of their own sexual orientation shifted on stopping[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- The direction of the effect runs the other way too, she says: men rate naturally cycling women as more attractive and better smelling, tip more at strip clubs during the fertile window, and find women more attractive even when viewing only their silhouettes moving behind a sheet at high versus low fertility[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Asked whether a partner's contraception could lower a man's testosterone, Hill says research shows men's testosterone rises in response to fertility cues — including studies piping air past a worn panty liner — and that whether widespread hormonal contraception contributes to falling population testosterone is an open question she finds fascinating but cannot answer[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- On stress, she reports that women on hormonal birth control show a blunted or absent cortisol response — the same signature seen in people with PTSD and trauma histories — and argues that dynamic cortisol spikes are adaptive, so blunting them can dysregulate immune and emotional responses[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Bartlett cites Danish research from her book finding women were 50% more likely to be diagnosed with depression within six months of starting the pill and twice as likely to have attempted suicide compared with naturally cycling women; Hill calls the risk factors stark and says they are often swept under the rug by prescribing doctors, with teenage girls bearing the burden asymmetrically[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Her sharpest concern is adolescent brain development, since the pubertal remodelling of the brain is coordinated by sex hormones and, she argues, replacing that natural variation with synthetics may not be reversible — research that exists suggests elevated long-term risk of major depressive disorder even after discontinuation[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- She also cites new research finding that women on hormonal birth control doing identical exercise over twelve weeks put on less muscle than naturally cycling women, attributing it to suppressed testosterone and lower AMPK[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- For her own 17-year-old daughter, Hill's stated preference is the copper IUD, which prevents pregnancy without exogenous hormones and lasts around five years, over the pill, the implant (Nexplanon), condoms or fertility awareness — the latter two requiring planning she considers unreliable in teenagers whose frontal lobes are still developing; but she says if the copper IUD were intolerable she would rather her daughter be on the pill than pregnant, since teenage pregnancy is one of the biggest predictors of a woman ending up in poverty[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- On the Clark and Hatfield-style campus study at the University of Florida, she reports that an attractive stranger's proposition drew 50% agreement from both sexes for a date, almost no women agreeing to go back to the apartment and zero agreeing to sex, while nearly 80% of men agreed to sex — with the men who declined usually citing a relationship or visiting parents[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- Hill says physical attractiveness is a stronger predictor of a woman's upward social mobility in the US than her education level or socioeconomic origin, that women compete most fiercely against beautiful women and often by derogation ("she's had a lot of work done"), and that the well-documented friendship between gay men and straight women is disproportionately formed by attractive women because it supplies mating-market information uncoloured by competition or sexual interest[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+- On "daddy issues," she says research finds girls raised without an investing father enter puberty significantly earlier, begin having sex earlier and have more sexual partners over time than girls raised with two investing parents[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+
+# Takeaways
+
+Hill's central message is not that women should come off hormonal contraception but that the decision involves trade-offs nobody described to them — "your hormones make you who you are, and when you change your hormones you change who you are" — and that the right answer is specific to each woman and to each stage of her life[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. She says the most common email she receives is not praise for the book but relief, from women who knew something had changed and had no language for it[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. Her position is that birth control is widely assumed to be a solved problem and is not, that suppressing men's hormone production is no better an answer, and that what is needed is more options rather than fewer[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]. She also corrects a common asymmetry, noting that men's testosterone shifts across the day and in response to attractive women, a sports result, an election or the presence of a weapon — less cyclically predictable than women's hormones, not more stable[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ].
+
+[^women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ]: "Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!", The Diary Of A CEO, YouTube, 2024-11-25 [Mirrored transcript](/references/women-health-expert-birth-control-changes-who-yo-MGposaKNJKQ.md)
+
+# Related topics
+
+- [The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS!](/topics/the-pregnancy-doctor-pregnancy-is-halved-every-y-w8h4qksd6Yw.md) — contraception's role in delayed family planning
+- [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](/topics/world-expert-on-love-your-brain-already-picked-y-hxsnk90VwCo.md) — unconscious neurochemistry driving mate preference
+- [Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements!](/topics/exercise-nutrition-scientist-the-truth-about-exe-It5_C6AF1pk.md) — female physiology ignored by male-default science

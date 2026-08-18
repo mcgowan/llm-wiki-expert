@@ -59,3 +59,4 @@ The closing statements crystallize the three positions: Perry, citing Mary Harri
 - [The Sex Psychologist: We're Not Having Enough Sex! Fat Makes You Attractive! Dr Bill Von Hippel](/topics/the-sex-psychologist-we-re-not-having-enough-sex-9gk3mNJs2FY.md) — data behind the declining sex and marriage claims
 - [The Porn Addiction Crisis No One Wants to Talk About – Dr. K](/topics/the-porn-addiction-crisis-no-one-wants-to-talk-a-dm2qDrb3UVo.md) — clinical view of the pornography harms debated
 - [Young Men Are (Quietly) Giving Up...Here’s Why!](/topics/young-men-are-quietly-giving-up-heres-why-li70iz1NaDY.md) — male-side counterpart to the same dating crisis
+- [The Sex Expert: "Casual Sex Is Almost Always Dangerous For Women!" - Louise Perry](/topics/the-sex-expert-casual-sex-is-almost-always-dange--pdCDq_MTj4.md) — Perry defends this thesis against feminist opponents

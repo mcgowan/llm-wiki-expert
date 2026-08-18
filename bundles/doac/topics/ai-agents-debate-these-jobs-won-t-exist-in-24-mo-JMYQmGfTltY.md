@@ -56,3 +56,4 @@ The debaters converge on inevitability but not on outcome: Weinstein calls the m
 - [EMERGENCY DEBATE: They Are Lying To Us About AI (Cenk Uygur BANNED from the UK!)](/topics/emergency-debate-they-are-lying-to-us-about-ai-c-H-8NrKFQKhU.md) — rival debate on AI unemployment versus opportunity
 - [The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy](/topics/the-ai-safety-expert-these-are-the-only-5-jobs-t-UclrVWafRAI.md) — Yampolskiy's far harsher unemployment forecast
 - [EMERGENCY DEBATE: They Lied About The Economy Recovering! Is A Financial Apocalypse Coming?](/topics/emergency-debate-they-lied-about-the-economy-rec-4yohVh4qcas.md) — Priestley debating economic causes instead of AI
+- [The Professor Banned From Speaking Out: "We Need To Start Preparing” - Dr Bret Weinstein](/topics/the-professor-banned-from-speaking-out-we-need-t-_cFu-b5lTMU.md) — same guest debating AI as complex-system risk

@@ -61,3 +61,4 @@ The guest's argument is that the rules of economic success have flipped: schools
 - [Daniel Priestley: AI Will Make Plumbers Earn More Than Lawyers! (2029 PREDICTION)](/topics/daniel-priestley-ai-will-make-plumbers-earn-more-fpETS6q1Hww.md) — his AI-era update to the same thesis
 - [Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!](/topics/alex-hormozis-warning-stop-chasing-ai-build-this-HwmwyBgzj8c.md) — brand as durable moat versus personal-brand playbook
 - [Passive Income Expert: How To Make $10k Per Month In 90 Days!](/topics/passive-income-expert-how-to-make-10k-per-month-4QLWlcneJig.md) — concrete scalable business models to attach
+- [The Money Making Expert: The Exact Formula For Turning $100 into $100k Per Month! - Daniel Priestley](/topics/the-money-making-expert-the-exact-formula-for-tu-u0o3IlsEQbI.md) — same entrepreneur's personal-brand playbook

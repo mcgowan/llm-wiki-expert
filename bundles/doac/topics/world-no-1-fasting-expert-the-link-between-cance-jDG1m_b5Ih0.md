@@ -60,3 +60,4 @@ Goldhamer's closing message is that health comes from healthful living — diet,
 - [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](/topics/insulin-expert-how-to-drain-your-liver-of-fat-do-C7LL7VwP8Nc.md) — whole-plant-food versus ketogenic routes to metabolic repair
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — fasting and glucose restriction as cancer therapy
 - [Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!](/topics/dr-david-sinclair-can-aging-be-reversed-after-8-DnvWAP99r3Y.md) — fasting reframed as a longevity rather than treatment lever
+- [The Fasting Expert: "The Truth About Ozempic", These 3 Foods Are Leading To Cancer! - Dr Mindy Pelz](/topics/the-fasting-expert-the-truth-about-ozempic-these-MrjIXLQ_OdA.md) — medically supervised water fasting as the clinical extreme

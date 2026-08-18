@@ -59,3 +59,4 @@ The episode presents Gominak's self-described belief system: that a hidden, fixa
 - [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](/topics/the-poo-doctor-this-cheap-spice-fixes-a-damaged-5Tr7AhkOEj4.md) — shared mechanism — repairing the gut microbiome
 - [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — rival accounts of what vitamin D deficiency really signals
 - [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — counterpoint: insomnia as vitamin-D chemistry
+- [I Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka](/topics/i-tested-100-000-people-s-dna-this-diet-will-kil-10enqcw2Qiw.md) — another deficiency-as-root-cause supplement argument

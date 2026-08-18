@@ -61,3 +61,4 @@ The guest's through-line is that charisma is a trainable stack — bodily calm, 
 - [Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They’re Lying!](/topics/oz-pearlman-mentalist-this-small-mistake-makes-p-4qfxHfBJ3Mw.md) — making interactions about the other person
 - [Top Harvard Professor: The Psychology Of Why People Don't Like You!](/topics/top-harvard-professor-the-psychology-of-why-peop-TYXzR5KahEg.md) — academic framework for the same conversational skill
 - [Secret Agent: Authenticity Is Quietly Sabotaging You! Do This & They'll Stop Respecting You!](/topics/secret-agent-authenticity-is-quietly-sabotaging-DazRYdqZRDI.md) — counterpoint: authenticity can sabotage social standing
+- [Body Language Expert: Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes!](/topics/body-language-expert-stop-using-this-its-making-VHUrdELKjDw.md) — both argue charisma is a learnable signal set

@@ -59,3 +59,4 @@ Honnold's closing message is deliberately deflating to his own myth: he describe
 - [I Met An Uncontacted Tribe: They Killed My Friend! (VIDEO PROOF)](/topics/i-met-an-uncontacted-tribe-they-killed-my-friend-sR7S2Q3c04g.md) — shared theme — deliberate risk-taking in wild environments
 - [WORLD EXCLUSIVE: Dustin Poirier: "I Deleted Social Media After The Incident](/topics/world-exclusive-dustin-poirier-i-deleted-social-DM2jRSgjy1o.md) — shared theme — risk and identity in dangerous sports
 - [Tom Aspinall Opens Up About Brain Damage & His Future In the UFC](/topics/tom-aspinall-opens-up-about-brain-damage-his-fut-puc5pZVsFPY.md) — both reframe fear as trained fuel
+- [Russ Cook (Hardest Geezer): I Haven't Told The Whole Truth About Africa!](/topics/russ-cook-hardest-geezer-i-haven-t-told-the-whol-hbdQPmjPHhg.md) — endurance athlete on trained fear and chosen risk

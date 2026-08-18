@@ -57,3 +57,4 @@ Berry distils the episode into five principles: choose a dietary pattern you enj
 - [The Fat Burning Expert: The REAL Reason You’re Not Losing Belly Fat (and How To Fix It Fast!)](/topics/the-fat-burning-expert-the-real-reason-youre-not-3C185Gkgg0U.md) — Aragon disputes that meal timing matters
 - [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](/topics/no-1-sugar-expert-you-ve-been-sold-a-lie-about-h-ZE_H7rijrVk.md) — harder line on ultra-processed food's harms
 - [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](/topics/they-re-lying-about-healthy-foods-sugar-shocking-Xm_PHZXGe-w.md) — shared attack on food marketing and glucose spikes
+- [Dr Mike: The Top 10 Lies Health Experts Have Told You!](/topics/dr-mike-the-top-10-lies-health-experts-have-told-ToUpAWW7u4c.md) — shared debunking of nutrition misinformation

@@ -60,3 +60,4 @@ Pape's closing argument is that bombs change politics more than they change fact
 - [Iran War Expert: “I Worry They Will Attack Us On Home Soil!” | Robert Pape](/topics/iran-war-expert-i-worry-they-will-attack-us-on-h-cxJgLJGHsWc.md) — same guest — Pape's escalation-trap follow-up
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — shared topic — Iran strike strategic consequences
 - [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — Pape models the miscalculation they fear
+- [Minute By Minute Of What Happens If A Nuclear Bomb Hits & How To Survive It!](/topics/minute-by-minute-of-what-happens-if-a-nuclear-bo-asmaLnhaFiY.md) — war-gaming the escalation ladder Jacobsen says has no offramp

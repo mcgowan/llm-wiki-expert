@@ -62,3 +62,4 @@ The guest's through-line is that self-mastery precedes influence: control your r
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — the manipulation tactics her self-regulation defends against
 - [Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They’re Lying!](/topics/oz-pearlman-mentalist-this-small-mistake-makes-p-4qfxHfBJ3Mw.md) — behavioral cues and lie-detection from another trade
 - [The Speaking Coach: The One Word All Liars Use! Stop Saying This Word, It's Making You Sound Weak!](/topics/the-speaking-coach-the-one-word-all-liars-use-st-zsuOSDb7gzQ.md) — deception cues plus emotional self-regulation
+- [Secret Agent: How To Detect A Lie Instantly! - Evy Poumpouras](/topics/secret-agent-how-to-detect-a-lie-instantly-evy-p-iz_SJ5TpLJ0.md) — Poumpouras on self-regulation and lie-detection cues

@@ -61,3 +61,4 @@ The guest's closing counsel to skeptics is that knowing God is like the red Ferr
 - [No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)](/topics/no-1-christianity-expert-the-truth-about-christi-nrwNSSyKuD4.md) — shared theme — evidence-based Christian apologetics
 - [Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it’s true)](/topics/neil-degrasse-tyson-the-harsh-truth-about-horosc-gW3vVIFRVhw.md) — direct rebuttal that atheism undermines scientific rationality
 - [Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!](/topics/jordan-b-peterson-you-need-to-listen-to-your-wif-Hik6OY-nk4c.md) — religious orientation as the antidote to modern nihilism
+- [Brian Keating: I’m Spending $200 Million To Explore Existence! How God Fits Into Science Explained!](/topics/brian-keating-im-spending-200-million-to-explore-LiIs5X56JMI.md) — scientist's case that faith fits evidence

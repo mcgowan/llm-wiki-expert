@@ -62,3 +62,4 @@ Jamnadas's message is that cardiology's focus on stents and LDL numbers misses t
 - [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](/topics/the-insulin-glucose-doctor-this-will-strip-your-NyFSkGMWP5Q.md) — Bikman on the same hyperinsulinemia mechanism
 - [Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!](/topics/anti-aging-expert-stop-touching-receipts-immedia-PyhmvAL-iYw.md) — Patrick links visceral fat and toxin exposure
 - [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](/topics/the-poo-doctor-this-cheap-spice-fixes-a-damaged-5Tr7AhkOEj4.md) — leaky gut as source of chronic inflammation
+- [The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra](/topics/the-doctor-that-got-banned-for-speaking-out-we-v-R87QLweXl1A.md) — cardiologists blaming insulin and inflammation over cholesterol

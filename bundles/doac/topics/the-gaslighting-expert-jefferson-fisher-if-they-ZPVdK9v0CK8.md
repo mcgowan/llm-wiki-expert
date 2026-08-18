@@ -58,3 +58,4 @@ Fisher's closing summary names five pillars of masterful communication — authe
 - [Secret Service Agent: How To Stay In Control When Someone Is Trying To Manipulate You!](/topics/secret-service-agent-how-to-stay-in-control-when-xDQyLnNAXr4.md) — parallel frameworks for staying calm in hostile conversations
 - [Former FBI Agent: If They Do This Please RUN! Narcissists Favourite Trick To Control You!](/topics/former-fbi-agent-if-they-do-this-please-run-narc-ZuiIvevLg40.md) — spotting and escaping malignant narcissists
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — the manipulation mechanics Fisher teaches you to refuse
+- [The Narcissism Doctor: "1 In 6 People Are Narcissists!" How To Spot Them & Can They Change?](/topics/the-narcissism-doctor-1-in-6-people-are-narcissi-hTkKXDvSJvo.md) — practical scripts for the manipulation Ramani diagnoses

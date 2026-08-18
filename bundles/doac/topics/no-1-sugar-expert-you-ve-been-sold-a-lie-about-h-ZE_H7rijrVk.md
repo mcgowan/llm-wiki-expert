@@ -60,3 +60,5 @@ Lustig's prescription for the average listener is behavioral before biochemical:
 - [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](/topics/the-insulin-glucose-doctor-this-will-strip-your-NyFSkGMWP5Q.md) — same processed-food harm traced through insulin resistance
 - [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — Lustig's addiction case against the same dietary sugar
 - [The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat!](/topics/the-nutritional-scientist-do-not-eat-after-9pm-l-eOnIWDMNyfE.md) — harder line on ultra-processed food's harms
+- [Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!](/topics/andrew-huberman-you-must-control-your-dopamine-t-jSqCL7Npln0.md) — sugar as the dietary source of dopamine overload
+- [The Glucose Expert: The Only Proven Way To Lose Weight Fast! Calorie Counting Is A Load of BS!](/topics/the-glucose-expert-the-only-proven-way-to-lose-w-4DWKf5RqU-s.md) — Lustig's companion episode on sugar and dopamine

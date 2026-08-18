@@ -60,3 +60,4 @@ The guest's closing message is anti-deferral: reject the "provisional life" in w
 - [The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin](/topics/the-quitting-expert-quit-now-before-ai-makes-the-g7AxxkywiFI.md) — Godin on subtracting and strategic quitting
 - [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — the sleep foundation his review prioritizes
 - [Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?)](/topics/dopamine-expert-how-tiktok-is-physically-rewirin-2ZKLaUbB33o.md) — science behind his phone-use reset
+- [The Mental Health Doctor: Your Phone Screen & Sitting Is Destroying Your Brain!](/topics/the-mental-health-doctor-your-phone-screen-sitti-FN0_ow76hU8.md) — small subtractive resets over big overhauls

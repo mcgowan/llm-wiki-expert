@@ -64,3 +64,4 @@ Hormozi closes with his life philosophy: after taking roughly $40M in distributi
 - [Emma Grede: They're Lying To You About Work-Life Balance!](/topics/emma-grede-they-re-lying-to-you-about-work-life-EdlXcVu1CTs.md) — Hormozi shares her focus and A-player hiring doctrine
 - [MrBeast: If You Want To Be Liked, Don't Help People & I Lost Tens Of Millions On Beast Games!](/topics/mrbeast-if-you-want-to-be-liked-don-t-help-peopl-FjrJ2DJN_pA.md) — Hormozi systematizes MrBeast's volume-and-obsession approach
 - [Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!](/topics/alex-hormozis-warning-stop-chasing-ai-build-this-HwmwyBgzj8c.md) — Hormozi returns applying focus doctrine to AI hype
+- [The No.1 Productivity Expert: 10,000 Hours Is A Lie! This Morning Habit Is Ruining Your Day!](/topics/the-no-1-productivity-expert-10-000-hours-is-a-l-MsERVcx0Qg8.md) — Hormozi's opposite prescription of committing to one thing

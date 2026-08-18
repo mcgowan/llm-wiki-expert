@@ -64,3 +64,5 @@ Housel's closing message is that there is no formula — for spending, for happi
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — psychology, not strategy, blocks wealth building
 - [Mohnish Pabrai: FASTEST Way To Financial Freedom! Proven Playbook For Quitting Your 9-5 In 9 Months!](/topics/mohnish-pabrai-fastest-way-to-financial-freedom-qgeQ5kMVwRA.md) — Housel doubts the low-risk path to financial freedom
 - [Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!](/topics/nischa-shah-theyre-lying-to-you-about-buying-a-h-NxTsA72O5x0.md) — Housel adds the psychology behind her spending steps
+- [The Happiness Expert: Single Friends Will Keep You Single & Obesity Is Contagious!](/topics/the-happiness-expert-single-friends-will-keep-yo-qRY-foz-ZAw.md) — same haves-over-wants formula applied to money
+- [How To Make Money.... 7 Hacks That Are PROVEN To Work!](/topics/how-to-make-money-7-hacks-that-are-proven-to-wor-jyCJeglqCe4.md) — Morgan Housel's money psychology in full

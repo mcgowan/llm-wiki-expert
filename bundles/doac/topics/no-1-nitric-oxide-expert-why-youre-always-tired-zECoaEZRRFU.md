@@ -58,3 +58,4 @@ Bryan's central message is that nitric oxide deficiency, not bad luck, underlies
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — oral versus gut microbiome as disease origin
 - [Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera](/topics/get-your-sex-life-back-what-everyone-gets-wrong-IgW1jepnJp4.md) — nitric oxide is the mechanism behind erectile warning signs
 - [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](/topics/the-mitochondria-doctor-this-reverses-gray-hair-6xlmaorRY0w.md) — competing cellular explanations for chronic fatigue
+- [Dr Sampson: Your Oral Microbiome Is Linked To This Disease!](/topics/dr-sampson-your-oral-microbiome-is-linked-to-thi-p3fSwd1cF08.md) — oral bacteria as gateway to cardiovascular health

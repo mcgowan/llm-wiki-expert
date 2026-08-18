@@ -62,3 +62,4 @@ The guest's closing counsel is that self-mastery means refusing to outsource you
 - [Brain Rot Emergency: These Internal Documents Prove They’re Controlling You!](/topics/brain-rot-emergency-these-internal-documents-pro-EScgrk7oEwU.md) — clinical diagnosis of the same distraction epidemic
 - [The Man Who Wrote Atomic Habits: Your Goals Are Quietly Restricting Your Happiness | James Clear](/topics/the-man-who-wrote-atomic-habits-your-goals-are-q-rtufWBLOXgw.md) — pattern-breaking versus habit architecture for change
 - [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](/topics/secret-to-living-without-fear-anxiety-forever-yo-G4hkYDjPSFs.md) — both teach breaking automatic identity patterns
+- [Wim Hof: They’re Lying To You About Disease & Inflammation!](/topics/wim-hof-theyre-lying-to-you-about-disease-inflam-_vX-_fq-c50.md) — breath and discipline traditions for self-mastery

@@ -63,3 +63,5 @@ Lembke's core message is that addiction is not a moral failure but a predictable
 - [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](/topics/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — addiction as brain condition rather than moral failing
 - [Secret Buddhist Practice To Stop Self Hate & Overthinking!](/topics/secret-buddhist-practice-to-stop-self-hate-overt-vIbLQQ1i56Y.md) — leaning into pain to restore balance
 - [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](/topics/secret-to-living-without-fear-anxiety-forever-yo-G4hkYDjPSFs.md) — addiction to stress chemistry, examined clinically
+- [Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!](/topics/andrew-huberman-you-must-control-your-dopamine-t-jSqCL7Npln0.md) — parallel model of dopamine peaks and troughs
+- [Explicit Content Debate: The Unseen Dangers Of Nofap & The Adult Industry Is Exploiting Our Brains!](/topics/explicit-content-debate-the-unseen-dangers-of-no-8LjNUabIJOk.md) — pleasure-pain mechanism behind supernormal stimuli

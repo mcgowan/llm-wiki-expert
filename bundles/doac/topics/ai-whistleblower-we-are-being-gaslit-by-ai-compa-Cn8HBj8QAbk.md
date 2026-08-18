@@ -63,3 +63,4 @@ Hao's closing message is that the question of whether individual AI CEOs are goo
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — shared theme — concentrated power threatening democracy
 - [An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!](/topics/an-ai-expert-warning-6-people-are-quietly-decidi-P7Y-fynYsgE.md) — counterpoint: power and labor, not extinction
 - [AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris](/topics/ai-expert-here-is-what-the-world-looks-like-in-2-BFU1OCkhBwo.md) — Hao reframes the same race as corporate empire-building
+- [Yuval Noah Harari: They Are Lying About AI! The Trump Kamala Election Will Tear The Country Apart!](/topics/yuval-noah-harari-they-are-lying-about-ai-the-tr-78YN1e8UXdM.md) — AGI mythology as anti-democratic narrative control

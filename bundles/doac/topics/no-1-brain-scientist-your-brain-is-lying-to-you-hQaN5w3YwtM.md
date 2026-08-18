@@ -58,3 +58,4 @@ The guest presents her stroke not as tragedy but liberation — "it set me free"
 - [No.1 Neuroscientist: you can change who you are in 30 days](/topics/no-1-neuroscientist-you-can-change-who-you-are-i-rCtvAvZtJyE.md) — rival brain model granting the same self-authorship agency
 - [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](/topics/stanford-neuroscientist-cant-remember-your-dream-m-nnyNZ0TQ0.md) — Eagleman's team-of-rivals brain, same competing-selves model
 - [Secret To Living Without Fear & Anxiety Forever! Your Mind Can Heal Itself! - Dr. Joe Dispenza](/topics/secret-to-living-without-fear-anxiety-forever-yo-G4hkYDjPSFs.md) — consciously choosing which internal self runs you
+- [Dr. Martha Beck (Oprah's Life Coach): This Weird Trick Reduces Anxiety & Fixed My Childhood Trauma!](/topics/dr-martha-beck-oprah-s-life-coach-this-weird-tri-fajtQSCHfvE.md) — both use hemisphere characters to escape anxious loops

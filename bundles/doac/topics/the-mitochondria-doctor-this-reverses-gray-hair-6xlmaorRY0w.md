@@ -64,3 +64,5 @@ Picard's core argument is that health, aging, and even feelings like motivation 
 - [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — mitochondrial energy flow as the shared mechanism
 - [Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, Oestrogen, Testosterone](/topics/hormone-expert-control-your-hormones-control-you-0GQozcTPyO0.md) — cortisol stress load traced to cellular energy
 - [No.1 Nitric Oxide Expert: Why You’re Always Tired and It’s Not Your Fault](/topics/no-1-nitric-oxide-expert-why-youre-always-tired-zECoaEZRRFU.md) — competing cellular explanations for chronic fatigue
+- [The Cancer Doctor: "This Common Food Is Making Cancer Worse!"](/topics/the-cancer-doctor-this-common-food-is-making-can-VaVC3PAWqLk.md) — mitochondrial energy flow as the root of disease
+- [Leading Harvard Doctor: The Shocking Link Between Your Diet ADHD & Autism!](/topics/leading-harvard-doctor-the-shocking-link-between-3GVInaBCn_c.md) — underlying mitochondrial energy mechanism explained

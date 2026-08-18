@@ -56,3 +56,6 @@ The guest's core argument is that the body is a self-healing system and that pla
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — shared claim that microbiome damage drives modern disease
 - [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](/topics/this-common-food-is-feeding-your-cancer-cells-dr-LgsJ3V9pIG0.md) — parallel case for everyday food as medicine
 - [The 6 Science Backed Brain Fixes Most People Are Ignoring!](/topics/the-6-science-backed-brain-fixes-most-people-are-Oipkl53n938.md) — compilation covers the same plant compounds for brain health
+- [The No.1 Poo & Gut Scientist: If Your Poo Looks Like This Go To A Doctor! Dr Will Bulsiewicz](/topics/the-no-1-poo-gut-scientist-if-your-poo-looks-lik-qqabbfk9wV8.md) — plant compounds and antibiotic damage to gut flora
+- [Dr Mike: The Top 10 Lies Health Experts Have Told You!](/topics/dr-mike-the-top-10-lies-health-experts-have-told-ToUpAWW7u4c.md) — skeptical foil to herbal-remedy claims
+- [The Doctor That Got Banned For Speaking Out:“We've Been Lied To About Medication!” Dr Aseem Malhotra](/topics/the-doctor-that-got-banned-for-speaking-out-we-v-R87QLweXl1A.md) — shared claim that pharma oversells prescriptions

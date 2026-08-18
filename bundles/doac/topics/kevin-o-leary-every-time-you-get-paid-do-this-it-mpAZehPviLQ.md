@@ -62,3 +62,4 @@ O'Leary's message is that financial success is mechanical rather than mysterious
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — Felix agrees indexing is solved, psychology is not
 - [Passive Income Expert: Buying A House Makes You Poorer Than Renting!](/topics/passive-income-expert-buying-a-house-makes-you-p-FoeQUNASmTU.md) — same automatic-savings-into-index-funds prescription
 - [World No.1 Divorce Lawyer: If You Do This, Your Marriage Is Already Over.](/topics/world-no-1-divorce-lawyer-if-you-do-this-your-ma-Uvy5mcLiWW0.md) — tests his claim that marriage is your biggest financial decision
+- [Ramit Sethi: Never Split The Bill, It's A Red Flag & Renting Isn't Wasting Money!](/topics/ramit-sethi-never-split-the-bill-it-s-a-red-flag-pz6jhMPA-2w.md) — marriage as your biggest financial decision
