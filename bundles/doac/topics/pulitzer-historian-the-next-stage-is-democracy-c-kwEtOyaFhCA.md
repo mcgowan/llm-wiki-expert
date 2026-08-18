@@ -59,3 +59,5 @@ Applebaum's closing counsel is that democracy's survival is a matter of choices,
 - [The Man Warning The West: Trump Is Changing The World Behind The Scenes](/topics/the-man-warning-the-west-trump-is-changing-the-w-nJeU72Rgjh4.md) — counterpoint — Trump as autocrat vs realist
 - [AI Whistleblower: We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao](/topics/ai-whistleblower-we-are-being-gaslit-by-ai-compa-Cn8HBj8QAbk.md) — shared theme — concentrated power threatening democracy
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — counterpoint — Applebaum indicts Trump administration tactics
+- [America Is at Breaking Point, Is Gavin Newsom America’s Next President?](/topics/america-is-at-breaking-point-is-gavin-newsom-ame-1NLoTuRR3hE.md) — historian's autocracy playbook behind Newsom's democracy warning
+- [Ray Dalio: We’re Heading Into Very, Very Dark Times! America & The UK’s Decline Is Coming!](/topics/ray-dalio-were-heading-into-very-very-dark-times-49RT6SQ8n0Y.md) — Applebaum details the internal-conflict stage

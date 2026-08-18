@@ -56,3 +56,6 @@ Kaku's closing register is one of disciplined wonder: the mystery he would most 
 
 - [Neil deGrasse Tyson: The Whistleblowers Were Right About Aliens](/topics/neil-degrasse-tyson-the-whistleblowers-were-righ-PHpsdIHpLUE.md) — shared theme — physics, UFO evidence, simulation hypothesis
 - [UFO Roundtable: Former CIA Scientist Proves Aliens Exist!](/topics/ufo-roundtable-former-cia-scientist-proves-alien-V-z0k5xu1hM.md) — counterpoint — Kaku's evidence standards for UFOs
+- [Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it’s true)](/topics/neil-degrasse-tyson-the-harsh-truth-about-horosc-gW3vVIFRVhw.md) — fellow physicist on cosmic perspective and civilizational risk
+- [You’re Watching the End of the World in Real Time - Eric Weinstein](/topics/youre-watching-the-end-of-the-world-in-real-time-I-iyGGPabpI.md) — physicist counterpoint to the stalled-physics-since-1973 claim
+- [Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!](/topics/top-psychologist-donald-hoffman-seeing-true-real-W0vTZrZny6A.md) — Kaku agrees perception is a survival-shaped fragment

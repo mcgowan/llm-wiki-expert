@@ -58,3 +58,5 @@ Galpin's through-line is that information was never the bottleneck — "we alway
 - [Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!](/topics/sleep-doctor-if-you-wake-up-at-3am-do-not-do-thi-pXlMKzcZlwM.md) — shared theme — undiagnosed sleep disorders and performance
 - [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](/topics/insulin-expert-how-to-drain-your-liver-of-fat-do-C7LL7VwP8Nc.md) — counterpoint — insulin model vs energy-management fat loss
 - [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](/topics/the-mitochondria-doctor-this-reverses-gray-hair-6xlmaorRY0w.md) — shared mechanism — energy metabolism drives health
+- [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — Galpin on undiagnosed sleep apnea wrecking recovery
+- [The Fat Burning Expert: The REAL Reason You’re Not Losing Belly Fat (and How To Fix It Fast!)](/topics/the-fat-burning-expert-the-real-reason-youre-not-3C185Gkgg0U.md) — Galpin adds sleep and personality to fat-loss basics

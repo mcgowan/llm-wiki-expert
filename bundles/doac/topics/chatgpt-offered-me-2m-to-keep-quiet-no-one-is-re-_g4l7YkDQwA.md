@@ -58,3 +58,6 @@ Kokotajlo's closing message is that the public should stop dismissing AI forecas
 - [Ex-Google Officer: You Only Have 3 Years Left Before It Hits! - Mo Gawdat](/topics/ex-google-officer-you-only-have-3-years-left-bef-RwlgFC6S-OE.md) — shared forecast — near-term AGI and catastrophe risk
 - [Scott Galloway: The Rich Are Quietly Preparing For The AI Collapse](/topics/scott-galloway-the-rich-are-quietly-preparing-fo-NdU6UdUKaYc.md) — counterpoint — doom talk dismissed as fundraising
 - [Global Forecaster: The Brutal 2026 Shift (And The Crisis They Can’t Stop)](/topics/global-forecaster-the-brutal-2026-shift-and-the-EVts3Ui_0AI.md) — shared theme — ungoverned AI as systemic risk
+- [The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy](/topics/the-ai-safety-expert-these-are-the-only-5-jobs-t-UclrVWafRAI.md) — competing timelines and catastrophe probabilities for superintelligence
+- [An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!](/topics/an-ai-expert-warning-6-people-are-quietly-decidi-P7Y-fynYsgE.md) — OpenAI insider quantifies the loss-of-control odds
+- [Godfather of AI: We Have 2 Years Before Everything Changes!](/topics/godfather-of-ai-we-have-2-years-before-everythin-zQ1POHiR8m8.md) — insider timeline for the racing dynamic Bengio fears

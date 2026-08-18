@@ -59,3 +59,5 @@ The guests present two competing but overlapping theories of middle-class declin
 - [EMERGENCY DEBATE: They Are Lying To Us About AI (Cenk Uygur BANNED from the UK!)](/topics/emergency-debate-they-are-lying-to-us-about-ai-c-H-8NrKFQKhU.md) — companion debate — AI's economic winners and losers
 - [Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!](/topics/ray-dalio-i-predicted-the-2008-crash-i-know-what-Bu0xNDLNORU.md) — shared mechanism — wealth gaps in economic cycles
 - [Pierre Poilievre: Why America Is Quietly Abandoning Its Allies (& What Comes Next)](/topics/pierre-poilievre-why-america-is-quietly-abandoni-9JxaESJIGO0.md) — counterpoint — free-market fix vs wage-suppression critique
+- [EMERGENCY DEBATE: They Lied About The Economy Recovering! Is A Financial Apocalypse Coming?](/topics/emergency-debate-they-lied-about-the-economy-rec-4yohVh4qcas.md) — Priestley debating inequality against Nick Hanauer
+- [US ELECTION DEBATE: What Trump’s Return REALLY Means For The World! Is The UK About To Collapse?](/topics/us-election-debate-what-trumps-return-really-mea-qpBnYB0I6_0.md) — Priestley debates the economic hollowing-out again

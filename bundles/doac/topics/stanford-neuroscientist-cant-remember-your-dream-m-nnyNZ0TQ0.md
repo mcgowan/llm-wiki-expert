@@ -57,3 +57,8 @@ Eagleman's central message is that we can be "the sculptors of our own brains": 
 - [Brain Rot Emergency: These Internal Documents Prove They’re Controlling You!](/topics/brain-rot-emergency-these-internal-documents-pro-EScgrk7oEwU.md) — complementary — attention, plasticity, AI as friction
 - [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — shared theme — cognitive reserve against decline
 - [Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!](/topics/sleep-doctor-if-you-wake-up-at-3am-do-not-do-thi-pXlMKzcZlwM.md) — complementary angle — dreams and sleep science
+- [Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)](/topics/brain-experts-warning-watch-this-before-using-ch-5wXlmlIXJOI.md) — Eagleman on challenge building cognitive reserve
+- [No.1 Neuroscientist: you can change who you are in 30 days](/topics/no-1-neuroscientist-you-can-change-who-you-are-i-rCtvAvZtJyE.md) — Eagleman's plasticity underwrites Barrett's changeable self
+- [Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!](/topics/tim-ferriss-the-hidden-nerve-that-controls-traum-GFyijjy1KdU.md) — brain plasticity as the basis for meta-learning
+- [No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!](/topics/no-1-brain-scientist-your-brain-is-lying-to-you-hQaN5w3YwtM.md) — Eagleman's team-of-rivals brain, same competing-selves model
+- [The 6 Science Backed Brain Fixes Most People Are Ignoring!](/topics/the-6-science-backed-brain-fixes-most-people-are-Oipkl53n938.md) — neuroplasticity claim developed by Eagleman

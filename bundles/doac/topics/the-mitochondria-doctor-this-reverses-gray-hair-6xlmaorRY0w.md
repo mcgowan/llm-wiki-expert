@@ -61,3 +61,6 @@ Picard's core argument is that health, aging, and even feelings like motivation 
 - [Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!](/topics/dr-david-sinclair-can-aging-be-reversed-after-8-DnvWAP99r3Y.md) — rival aging theories — epigenetic loss versus energy
 - [Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin](/topics/fat-loss-scientist-its-easy-to-lose-weight-but-h-dmz--DQty8o.md) — shared mechanism — energy metabolism drives health
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — shared mechanism — mitochondrial dysfunction drives disease
+- [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — mitochondrial energy flow as the shared mechanism
+- [Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, Oestrogen, Testosterone](/topics/hormone-expert-control-your-hormones-control-you-0GQozcTPyO0.md) — cortisol stress load traced to cellular energy
+- [No.1 Nitric Oxide Expert: Why You’re Always Tired and It’s Not Your Fault](/topics/no-1-nitric-oxide-expert-why-youre-always-tired-zECoaEZRRFU.md) — competing cellular explanations for chronic fatigue

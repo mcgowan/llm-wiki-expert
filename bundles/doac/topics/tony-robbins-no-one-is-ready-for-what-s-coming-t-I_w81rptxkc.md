@@ -59,3 +59,4 @@ Robbins's closing message is that stressed people should stop managing their cir
 - [The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin](/topics/the-quitting-expert-quit-now-before-ai-makes-the-g7AxxkywiFI.md) — shared theme — retooling careers before AI displacement
 - [Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber! - Dara Khosrowshahi](/topics/uber-ceo-i-have-to-be-honest-ai-will-replace-9-4-s52O1JH2tnU.md) — agreement — AI displaces most work within decade
 - [Scott Galloway: The Rich Are Quietly Preparing For The AI Collapse](/topics/scott-galloway-the-rich-are-quietly-preparing-fo-NdU6UdUKaYc.md) — counterpoint — Galloway calls job-apocalypse talk fundraising
+- [Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat](/topics/ex-google-exec-warning-the-next-15-years-will-be-S9a1nLw70p0.md) — same displacement forecast, focused on retooling people

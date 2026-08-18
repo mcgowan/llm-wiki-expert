@@ -1,0 +1,66 @@
+---
+type: Topic
+title: 'Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!'
+description: 'Critical care physician Dr. Roger Seheult argues that vitamin D is mostly
+  a marker for sun exposure, and that the real active ingredient is infrared light acting
+  on mitochondria — one of eight lifestyle pillars he calls NEWSTART.'
+tags:
+- roger-seheult
+- sunlight-and-infrared-light
+- mitochondrial-health
+- vitamin-d
+- circadian-rhythm
+- newstart-pillars
+status: stable
+published_at: '2025-07-17T07:00:58+00:00'
+generated:
+  by: llm-wiki/0.1.0
+  at: '2026-08-17T04:37:48Z'
+verified:
+  by: llm-wiki-skill/claude
+  at: '2026-08-17T04:00:00Z'
+sources:
+- id: vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA
+  resource: https://www.youtube.com/watch?v=wQJlGHVmdrA
+  title: 'Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!'
+---
+
+# Overview
+
+Dr. Roger Seheult — a board-certified internal medicine, pulmonary, critical care and sleep physician who runs the MedCram education channel — tells Steven Bartlett that his years in the intensive care unit reframed how he thinks about prevention. He offers a chain metaphor: each organ system is a link, disease is the weakest link breaking, and modern medicine mostly works by leveraging strong links at the expense of others, because every drug carries side effects. The alternative, he argues, is strengthening every link through eight lifestyle pillars — nutrition, exercise, water, sunlight, temperance, air, rest and trust — which spell NEWSTART, a framework packaged by Weimar University.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+
+The core argument of the episode is that sunlight has been wrongly collapsed into vitamin D. Seheult's contention is that during COVID he repeatedly saw high vitamin D levels predict survival, yet supplementing sick patients with vitamin D tablets did little — which led him to conclude that blood vitamin D was largely a marker for who had been outside. The active ingredient, on the account he takes from Russell Reiter and Scott Zimmerman's 2019 paper, is near-infrared light: a long wavelength that penetrates deep into tissue and upregulates melatonin produced inside mitochondria, where it works as an antioxidant against the oxidative stress he links to dementia, diabetes, fatty liver and heart disease.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+
+Around that thesis he assembles anecdote, observational epidemiology and small trials — a dying teenager wheeled outdoors, a Brazilian infrared-jacket study, Swedish and UK Biobank cohorts, a Kentucky tree-planting experiment — and then works through the rest of the pillars: hot and cold water as a way of raising interferon, forest air and its phytoncides, the need for dark nights as much as bright days, and faith as a stress buffer. He is repeatedly careful to flag which findings are associations rather than proof, invoking the Bradford Hill criteria and dose-response curves as the reason he takes some of them seriously.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+
+# Key points
+
+- Seheult opens with a case relayed to him by a mother, Amy Hanmeyer: her 15-year-old son, treated for lymphoblastic leukaemia, developed a fungal flesh-eating lung infection, lost his left lung, and was given two days to live. His dying wish was to go outside; with no change to his antifungal regimen (amphotericin B and posaconazole) his white count and oxygen requirement fell, and by day five a CT scan showed roughly 60-70% of the disease in the remaining lung gone. He notes staff also used a light device called a Firefly and says he cannot say which factor was responsible.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He cites hospital research that patients in the bed nearer the window are discharged sooner on average, and that rooms with larger windows produce better patient surveys — which, since US hospital reimbursement is tied to those surveys, he calls a win-win-win for getting patients outdoors.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- His mitochondrial framing: energy output from mitochondria falls by roughly 70% with age, and the resulting dysfunction manifests differently by tissue — fatty liver, congestive heart failure, dementia in the brain, worse colour vision in the retina, which he says is the body's most mitochondria-dense tissue.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- Following Reiter and Zimmerman (2019), he argues infrared light penetrates several centimetres into the body — he cites about 8 cm — and stimulates subcellular melatonin made inside the mitochondria, which acts as the "radiator" against oxidative stress. He explains the wavelength physics by analogy to bass from a neighbouring car and distant thunder: long wavelengths travel and penetrate, short ones do not.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- On COVID specifically, he says the ICU filled not with respiratory patients as predicted but with people who had obesity, diabetes, kidney disease and dementia, and that SARS-CoV-2's binding to the ACE2 receptor — itself involved in mitigating oxidative stress — is like knocking out the cooling system, so those whose "engines were already running hot" failed to get over the hill.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He points to a Brazilian randomised trial of 30 hospitalised COVID patients wearing LED jackets emitting 940 nm infrared, blinded because the light is invisible and produces no heat: 15 minutes daily for seven days, with every endpoint statistically significant and average length of stay falling from 12 days to eight.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He recounts his own anecdote of a COVID patient on 35 litres per minute of 100% oxygen in a darkened isolation room, whose first words were "Doc, how much time have I got?" After seven days of being wheeled outside the patient came down through 15, 12, 8 and 5 litres and went home without oxygen in five days — Seheult explicitly labels this an anecdote rather than a study.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- The observational evidence he leans on: a Swedish cohort of 20,000-30,000 women followed 20 years, in which those with the most sun exposure had the lowest all-cause, cancer and cardiovascular mortality — with the striking finding that high-sun smokers had mortality comparable to low-sun non-smokers; and Richard Weller's UK Biobank study of some 300,000-400,000 people, which he says found no statistically increased melanoma incidence but reduced non-skin-cancer mortality, prompting Weller's editorial "Sunlight: Time for a Rethink."[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He cites Glen Jeffery at UCL, whose randomised trials at 670 nm red light he says improved mitochondrial efficiency, colour vision after three minutes of morning exposure, and glucose handling — the last achieved systemically by shining light only on the back, evidenced by raised exhaled CO2. Jeffery's finding, per Seheult, is that a switch flips after roughly 15-20 minutes and more light adds nothing.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- On green space he describes the GreenHeart study in South Louisville, Kentucky, where 8,000 mature trees were planted across a four-square-mile urban area; two years later hs-CRP in roughly 700 residents had dropped 13-20%, corresponding to an estimated 10-15% reduction in strokes, with no change in socioeconomic status or exercise programmes. He adds that trees are highly reflective of infrared, and that Japanese forest research found phytoncides raised natural killer cell number and activity with effects lasting about seven days.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He treats seasonality as evidence rather than coincidence: peak deaths across cardiac, kidney, respiratory and infectious causes fall within a month of the shortest day, and in Australia the pattern inverts to June-July despite Christmas gatherings — which he says rules out the holiday-mixing explanation. He also cites latitude, not temperature or humidity, as the predictor of when European countries had their first autumn 2020 COVID surge, from Finland down to Greece.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- On practicalities he says Americans spend about 93% and Britons about 92% of time indoors; that morning and evening sun gives proportionally more infrared and least ultraviolet; that clouds absorb infrared but outdoors still beats indoors; that modern windows are designed to block infrared; and that LED lighting gives humans, for the first time in history, blue light without accompanying red — a preprint by Jeffery swapping LEDs for incandescents in 22 people showed a 25% improvement in colour differentiation.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- He still endorses vitamin D supplementation, citing Martineau's BMJ meta-analysis of randomised trials on acute respiratory infection and a trial where 2,000 IU daily reduced all-cause autoimmune conditions, but urges getting blood levels checked because it is a fat-soluble hormone that can disturb calcium metabolism — noting roughly a billion people are deficient and about half the world insufficient, with darker skin and higher latitudes raising the requirement.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- On the water pillar he argues heat raises interferon — the innate immune system's key effector, which he says is variant-agnostic where antibodies are not — citing a tenfold jump in interferon from lymphocytes at 38-39°C, and Finnish sauna dose-response data linking four to seven sessions a week with lower cardiovascular death. A brief cold finish, he says, causes vasoconstriction that retains core heat and demarginates white blood cells into circulation.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- For rest he stresses dark nights as much as bright days, citing a study titled "dark days and bright nights" correlating with increased mortality; he recommends no nightlights or LED clock displays, notes light penetrates closed eyelids, and says blue-blocking glasses are better than nothing but still admit enough light to suppress melatonin. He endorses small doses of melatonin (no more than 5 mg) for sleep onset, jet lag and circadian shifting, but not routine high doses, which he says can cause irritability.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+- On trust he reports that faith is associated with lower anxiety and depression, and cites a study by Krause distinguishing conditional from unconditional forgiveness: unconditional forgivers had less depression and end-of-life anxiety, and the single strongest predictor of unconditional forgiveness — odds ratio around 2.5 — was believing that God had forgiven them. He adds that a punitive conception of God shows the opposite association, and that he never prays for patients without permission.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+
+# Takeaways
+
+Seheult's practical prescription is unglamorous and cheap: get outside for roughly 15-20 minutes, preferably among trees and preferably at the ends of the day, keep nights genuinely dark, use heat and brief cold, and supplement vitamin D while understanding it as insurance rather than the mechanism. He compares modern indoor life to scurvy on an 18th-century ship — a deficiency with an obvious remedy nobody recognises — while conceding that much of his evidence is associational and that larger randomised trials are needed. He closes on a case of unexplained recovery from anoxic brain injury as his reason for medical humility, estimating he holds perhaps 5-10% of medical knowledge and that the explanation for such cases likely sits in the rest.[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]
+
+[^vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA]: "Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!", The Diary Of A CEO, YouTube, 2025-07-17 [Mirrored transcript](/references/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md)
+
+# Related topics
+
+- [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](/topics/vitamin-d-expert-the-supplement-world-is-giving-BbGv7GTbRN8.md) — rival accounts of what vitamin D deficiency really signals
+- [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](/topics/the-mitochondria-doctor-this-reverses-gray-hair-6xlmaorRY0w.md) — mitochondrial energy flow as the shared mechanism
+- [Anti-Aging Expert: Missing This Vitamin Is Like Smoking! The Truth About Creatine! - Rhonda Patrick](/topics/anti-aging-expert-missing-this-vitamin-is-like-s-JCTb3QSrGMQ.md) — contrasting cases for supplementing versus sun exposure
+- [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — lifestyle pillars for preventing dementia decades early

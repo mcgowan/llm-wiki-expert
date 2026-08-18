@@ -57,3 +57,6 @@ Collins's message, as he presents it, is that wealth is a solved problem for any
 - [Early Retirement Expert: A House Vs Stocks... (Here Is The Truth)](/topics/early-retirement-expert-a-house-vs-stocks-here-i-99xyy1nUpug.md) — counterpoint — disputes home ownership as wealth builder
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — agreement — index funds and renting over owning
 - [Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!](/topics/ray-dalio-i-predicted-the-2008-crash-i-know-what-Bu0xNDLNORU.md) — contrasting angle — simple buy-and-hold vs macro-cycle diversification
+- [No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!](/topics/no-1-money-saving-experts-do-not-buy-a-house-put-XTGlde-Pbd8.md) — Collins agrees your home isn't an investment
+- [Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!](/topics/kevin-o-leary-every-time-you-get-paid-do-this-it-mpAZehPviLQ.md) — same automatic-savings-into-index-funds prescription
+- [Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!](/topics/nischa-shah-theyre-lying-to-you-about-buying-a-h-NxTsA72O5x0.md) — JL Collins makes the same anti-homeownership case

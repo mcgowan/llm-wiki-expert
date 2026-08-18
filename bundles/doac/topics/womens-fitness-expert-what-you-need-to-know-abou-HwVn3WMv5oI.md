@@ -59,3 +59,5 @@ Estima's through-line is that women's bodies are not "little men": training advi
 - [Anti-Aging Expert: Creatine Is The Fat Loss Secret Doctors Don’t Tell You - Dr. Darren Candow](/topics/anti-aging-expert-creatine-is-the-fat-loss-secre-Jk7RAkFN4vk.md) — complementary — strength training plus supplement strategy
 - [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](/topics/dr-rachel-rubin-i-m-filled-with-rage-your-doctor-MM-Qhlxf1pM.md) — shared theme — female-specific health long ignored
 - [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — shared theme — midlife exercise protects women's health
+- [Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements!](/topics/exercise-nutrition-scientist-the-truth-about-exe-It5_C6AF1pk.md) — Estima's female-specific resistance training case
+- [Women's Exercise Debate: The 7 Weight Loss Lies Women Believe!](/topics/women-s-exercise-debate-the-7-weight-loss-lies-w-P1CeHGJOX5g.md) — Estima's attack on the same pursuit of skinny

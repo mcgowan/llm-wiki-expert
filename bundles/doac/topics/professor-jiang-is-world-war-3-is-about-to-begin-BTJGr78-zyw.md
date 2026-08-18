@@ -58,3 +58,4 @@ The guest's overarching claim is that the world is already inside a slow-burning
 - [The Iran War Expert: I Simulated The Iran War for 20 Years. Here’s What Happens Next](/topics/the-iran-war-expert-i-simulated-the-iran-war-for-xcXfcXJvMXg.md) — shared topic — US-Iran war escalation dynamics
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — shared theme — Iran strike as WW3 trigger
 - [Financial Crash Expert: The 90-Day Collapse Timeline They Are Desperately Hiding.](/topics/financial-crash-expert-the-90-day-collapse-timel-PUO51DoSEqk.md) — complementary angle — economic fallout of Iran war
+- [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — rival account of when World War III began

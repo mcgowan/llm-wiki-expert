@@ -55,3 +55,6 @@ Bach's message, as he frames it, is that financial freedom is a system rather th
 - [Passive Income Expert: Buying A House Makes You Poorer Than Renting!](/topics/passive-income-expert-buying-a-house-makes-you-p-FoeQUNASmTU.md) — counterpoint — disputes home ownership as wealth builder
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — counterpoint — Felix's 5% rule favors renting
 - [Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!](/topics/ray-dalio-i-predicted-the-2008-crash-i-know-what-Bu0xNDLNORU.md) — complementary angle — diversification for ordinary investors
+- [No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!](/topics/no-1-money-saving-experts-do-not-buy-a-house-put-XTGlde-Pbd8.md) — Bach's opposite case for home ownership
+- [Mohnish Pabrai: FASTEST Way To Financial Freedom! Proven Playbook For Quitting Your 9-5 In 9 Months!](/topics/mohnish-pabrai-fastest-way-to-financial-freedom-qgeQ5kMVwRA.md) — both sell compounding as the ordinary earner's escalator
+- [Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!](/topics/nischa-shah-theyre-lying-to-you-about-buying-a-h-NxTsA72O5x0.md) — Bach argues homeownership is the wealth escalator she rejects

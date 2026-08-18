@@ -58,3 +58,4 @@ The episode presents Huff's case that Christianity is both historically defensib
 
 - [No.1 Christianity Expert: If You DON'T Believe In a God You NEED to Hear This!](/topics/no-1-christianity-expert-if-you-don-t-believe-in-dLrvJeSugkM.md) — shared theme — evidence-based Christian apologetics
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — complementary angle — faith answering modern meaning crisis
+- [Atheist vs Christian vs Spiritual Thinker: Is Not Believing In God Causing More Harm Than Good?!](/topics/atheist-vs-christian-vs-spiritual-thinker-is-not-Esu8BXLBmZ4.md) — Wes Huff argues the debate's Christian side

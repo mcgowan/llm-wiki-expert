@@ -59,3 +59,4 @@ The guest's throughline is that identity is the only durable defense against pub
 - [Bruno Fernandes: Roy Keane Twisted My Words. They Offered Me £200M, I Said No.](/topics/bruno-fernandes-roy-keane-twisted-my-words-they-qel8Fyt78fk.md) — shared theme — public scrutiny and family first
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — shared theme — inside the Trump political orbit
 - [Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!](/topics/alex-hormozis-warning-stop-chasing-ai-build-this-HwmwyBgzj8c.md) — shared theme — entrepreneurship and long-term focus
+- [Michelle Obama: This Is A Scam! People Were Running From Us Because We Were Black!](/topics/michelle-obama-this-is-a-scam-people-were-runnin-D67eWcX2XYQ.md) — contrasting first-family life under public scrutiny

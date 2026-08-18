@@ -60,3 +60,5 @@ The episode's through-line, on which all three guests converge despite deep disa
 - [Professor Jiang: Is World War 3 Is About To Begin?](/topics/professor-jiang-is-world-war-3-is-about-to-begin-BTJGr78-zyw.md) — shared theme — Iran strike as WW3 trigger
 - [The Iran War Expert: I Simulated The Iran War for 20 Years. Here’s What Happens Next](/topics/the-iran-war-expert-i-simulated-the-iran-war-for-xcXfcXJvMXg.md) — shared topic — Iran strike strategic consequences
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — shared topic — the Iran strike he defends
+- [Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!](/topics/former-cia-spies-new-leave-the-usa-before-2030-t-fu6bYPTp_kE.md) — Andrew Bustamante returns on the Iran strike
+- [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — same Jacobsen-Bustamante-Radd panel after the Iran strike

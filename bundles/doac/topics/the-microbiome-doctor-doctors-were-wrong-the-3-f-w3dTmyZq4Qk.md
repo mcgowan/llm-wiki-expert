@@ -62,3 +62,7 @@ Spector's message is that gut health is brain health: he argues that inflammatio
 - [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](/topics/the-poo-doctor-this-cheap-spice-fixes-a-damaged-5Tr7AhkOEj4.md) — shared field — gut microbiome drives inflammation
 - [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](/topics/vitamin-d-expert-the-supplement-world-is-giving-BbGv7GTbRN8.md) — shared mechanism — microbiome's role in systemic health
 - [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](/topics/they-re-lying-about-healthy-foods-sugar-shocking-Xm_PHZXGe-w.md) — shared theme — food industry misleads on nutrition
+- [5 Natural Medicines Big Pharma Are Hiding From You! No.1 Herbal Medicine Expert](/topics/5-natural-medicines-big-pharma-are-hiding-from-y-5Jk5XCLAr6w.md) — shared claim that microbiome damage drives modern disease
+- [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](/topics/this-common-food-is-feeding-your-cancer-cells-dr-LgsJ3V9pIG0.md) — food choices tuning microbiome-based defenses
+- [The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness?](/topics/the-keto-psychiatrist-what-keto-is-really-doing-B7tnfSPySb0.md) — Spector routes mood through the gut instead of ketones
+- [No.1 Nitric Oxide Expert: Why You’re Always Tired and It’s Not Your Fault](/topics/no-1-nitric-oxide-expert-why-youre-always-tired-zECoaEZRRFU.md) — oral versus gut microbiome as disease origin

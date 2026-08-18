@@ -60,3 +60,5 @@ Buttigieg's closing argument is that "it doesn't have to be the way it is" — b
 - [EMERGENCY DEBATE: They Are Lying To Us About AI (Cenk Uygur BANNED from the UK!)](/topics/emergency-debate-they-are-lying-to-us-about-ai-c-H-8NrKFQKhU.md) — shared theme — 2028 politics and US divisions
 - [Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!](/topics/vice-president-jd-vance-they-tricked-me-about-tr-5cKDs7bIGPE.md) — counterpoint — opposing-party vision for America
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — shared theme — American democracy at risk
+- [America Is at Breaking Point, Is Gavin Newsom America’s Next President?](/topics/america-is-at-breaking-point-is-gavin-newsom-ame-1NLoTuRR3hE.md) — fellow 2028 contender on reforming rather than restoring
+- [Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!](/topics/kamala-harris-america-is-at-breaking-point-i-m-d-D3lhrrXb4WI.md) — campaign colleague on why restoring the status quo fails

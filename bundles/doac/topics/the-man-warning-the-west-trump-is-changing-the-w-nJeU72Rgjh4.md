@@ -58,3 +58,6 @@ Kisin's core message is that the world has reverted to its historical norm of gr
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — counterpoint — Trump as autocrat vs realist
 - [The Iran War Expert: The Most Dangerous Stage Begins Now (STAGE 4)](/topics/the-iran-war-expert-the-most-dangerous-stage-beg-pDKlaJM_vys.md) — shared theme — NATO decline, multipolar power shift
 - [Global Forecaster: The Brutal 2026 Shift (And The Crisis They Can’t Stop)](/topics/global-forecaster-the-brutal-2026-shift-and-the-EVts3Ui_0AI.md) — shared theme — collapsed rules-based order
+- [You’re Watching the End of the World in Real Time - Eric Weinstein](/topics/youre-watching-the-end-of-the-world-in-real-time-I-iyGGPabpI.md) — rules-based international order collapsing into multipolar struggle
+- [EMERGENCY DEBATE: They Lied About The Economy Recovering! Is A Financial Apocalypse Coming?](/topics/emergency-debate-they-lied-about-the-economy-rec-4yohVh4qcas.md) — Kisin's tax-and-welfare critique of Britain
+- [US ELECTION DEBATE: What Trump’s Return REALLY Means For The World! Is The UK About To Collapse?](/topics/us-election-debate-what-trumps-return-really-mea-qpBnYB0I6_0.md) — Kisin develops his Western-decline argument alone

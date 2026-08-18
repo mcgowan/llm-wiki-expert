@@ -59,3 +59,4 @@ Pape's closing argument is that bombs change politics more than they change fact
 - [The Iran War Expert: The Most Dangerous Stage Begins Now (STAGE 4)](/topics/the-iran-war-expert-the-most-dangerous-stage-beg-pDKlaJM_vys.md) — same guest — direct sequel episode
 - [Iran War Expert: “I Worry They Will Attack Us On Home Soil!” | Robert Pape](/topics/iran-war-expert-i-worry-they-will-attack-us-on-h-cxJgLJGHsWc.md) — same guest — Pape's escalation-trap follow-up
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — shared topic — Iran strike strategic consequences
+- [WW3 Threat Assessment: World War III Has Quietly Started!](/topics/ww3-threat-assessment-world-war-iii-has-quietly-8qObdS-bhRM.md) — Pape models the miscalculation they fear

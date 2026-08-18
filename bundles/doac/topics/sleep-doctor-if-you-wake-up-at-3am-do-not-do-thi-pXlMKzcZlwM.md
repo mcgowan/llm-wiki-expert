@@ -58,3 +58,4 @@ Breus's core argument is that sleep is trainable behavior governed by heart rate
 - [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! | Dr Stasha Gominak](/topics/vitamin-d-expert-the-supplement-world-is-giving-BbGv7GTbRN8.md) — shared topic — root causes of sleep disorders
 - [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](/topics/cognitive-decline-expert-the-disease-that-starts-0t_DD5568RA.md) — shared mechanism — sleep as brain-health lever
 - [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](/topics/stanford-neuroscientist-cant-remember-your-dream-m-nnyNZ0TQ0.md) — complementary angle — dreams and sleep science
+- [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — Breus on chronotypes and 3AM waking

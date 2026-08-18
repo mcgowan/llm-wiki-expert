@@ -57,3 +57,5 @@ Gawdat's message is deliberately double-edged: he is "very optimistic about the 
 - [Scott Galloway: The Rich Are Quietly Preparing For The AI Collapse](/topics/scott-galloway-the-rich-are-quietly-preparing-fo-NdU6UdUKaYc.md) — counterpoint — dismisses AI doom as fundraising hype
 - [Tony Robbins: No One Is Ready For What's Coming (The truth about AI).](/topics/tony-robbins-no-one-is-ready-for-what-s-coming-t-I_w81rptxkc.md) — shared theme — AI job-displacement timeline warnings
 - [No.1 Christianity Expert: If You DON'T Believe In a God You NEED to Hear This!](/topics/no-1-christianity-expert-if-you-don-t-believe-in-dLrvJeSugkM.md) — counterpoint — AGI hopes as machine-god self-deification
+- [The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy](/topics/the-ai-safety-expert-these-are-the-only-5-jobs-t-UclrVWafRAI.md) — counterpoint that superintelligence ends in abundance not doom
+- [Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat](/topics/ex-google-exec-warning-the-next-15-years-will-be-S9a1nLw70p0.md) — Gawdat's earlier version of the same dystopia timeline

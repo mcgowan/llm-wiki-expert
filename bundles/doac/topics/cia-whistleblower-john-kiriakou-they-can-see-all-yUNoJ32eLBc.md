@@ -57,3 +57,6 @@ Kiriakou's through-line is ethics: he argues America is "a country of laws" that
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — shared craft — elicitation and spy influence tradecraft
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — fellow ex-CIA voices on surveillance risks
 - [UFO Roundtable: Former CIA Scientist Proves Aliens Exist!](/topics/ufo-roundtable-former-cia-scientist-proves-alien-V-z0k5xu1hM.md) — shared theme — government secrecy and intelligence programs
+- [Top Intelligence Advisor: “Epstein Was A Front.” They Can See Everything, Even Your Messages!](/topics/top-intelligence-advisor-epstein-was-a-front-the-t38LbMVoPCs.md) — insider account of mass surveillance ending privacy
+- [Corrupt Cop: I Had Sex With Girls In My Police Car, Arrested Drug Dealers, Then Sold Their Drugs!](/topics/corrupt-cop-i-had-sex-with-girls-in-my-police-ca-NSsx6mkiaf8.md) — insiders describing agencies operating outside the law
+- [Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!](/topics/former-cia-spies-new-leave-the-usa-before-2030-t-fu6bYPTp_kE.md) — rival CIA insider account of agency conduct

@@ -63,3 +63,7 @@ Godin's closing counsel is that everyone is stuck in some knot, and the way out 
 - [Chase Hughes: The 3 "Dark Psychology" Tricks To Read Anyone's Mind!](/topics/chase-hughes-the-3-dark-psychology-tricks-to-rea-9uSXOr-AdAU.md) — shared theme — human skills as AI-proof advantage
 - [Tony Robbins: No One Is Ready For What's Coming (The truth about AI).](/topics/tony-robbins-no-one-is-ready-for-what-s-coming-t-I_w81rptxkc.md) — shared theme — retooling careers before AI displacement
 - [Daniel Priestley: AI Will Make Plumbers Earn More Than Lawyers! (2029 PREDICTION)](/topics/daniel-priestley-ai-will-make-plumbers-earn-more-fpETS6q1Hww.md) — shared theme — AI reshapes which work pays
+- [The Man Who Wrote Atomic Habits: Your Goals Are Quietly Restricting Your Happiness | James Clear](/topics/the-man-who-wrote-atomic-habits-your-goals-are-q-rtufWBLOXgw.md) — counterpoint that quitting beats persisting on wrong systems
+- [Chris Williamson: Fix This One Habit And 2026 Will Be Your Best Year!](/topics/chris-williamson-fix-this-one-habit-and-2026-wil-q_vZ4H3uW28.md) — Godin on subtracting and strategic quitting
+- [Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!](/topics/shaolin-warrior-master-hidden-epidemic-nobody-ta-atejm2w2jWY.md) — choice overload and wanting incompatible things
+- [Passive Income Expert: How To Make $10k Per Month In 90 Days!](/topics/passive-income-expert-how-to-make-10k-per-month-4QLWlcneJig.md) — Godin on killing the tests that don't work

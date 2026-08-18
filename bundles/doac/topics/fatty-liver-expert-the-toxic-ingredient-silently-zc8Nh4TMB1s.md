@@ -60,3 +60,5 @@ Unwin's core message is that metabolic disease is largely a consequence of every
 - [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](/topics/insulin-expert-how-to-drain-your-liver-of-fat-do-C7LL7VwP8Nc.md) — shared mechanism — low-carb reverses liver fat
 - [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](/topics/they-re-lying-about-healthy-foods-sugar-shocking-Xm_PHZXGe-w.md) — shared theme — hidden sugar and glucose harms
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — complementary angle — carb restriction as metabolic therapy
+- [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](/topics/no-1-sugar-expert-you-ve-been-sold-a-lie-about-h-ZE_H7rijrVk.md) — clinical evidence that hidden sugar drives fatty liver
+- [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — Unwin reverses diabetes clinically with the same carb restriction

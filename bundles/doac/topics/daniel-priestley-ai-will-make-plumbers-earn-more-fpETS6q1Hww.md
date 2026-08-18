@@ -60,3 +60,5 @@ Priestley's closing counter-narrative is hopeful: AI may commoditize standardize
 - [EMERGENCY DEBATE: They Are Lying To Us About AI (Cenk Uygur BANNED from the UK!)](/topics/emergency-debate-they-are-lying-to-us-about-ai-c-H-8NrKFQKhU.md) — shared theme — AI jobs and data-center overspend
 - [Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!](/topics/ray-dalio-i-predicted-the-2008-crash-i-know-what-Bu0xNDLNORU.md) — shared prediction — AI overspend triggers crash
 - [The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin](/topics/the-quitting-expert-quit-now-before-ai-makes-the-g7AxxkywiFI.md) — shared theme — AI reshapes which work pays
+- [AI AGENTS DEBATE: These Jobs Won't Exist In 24 Months!](/topics/ai-agents-debate-these-jobs-won-t-exist-in-24-mo-JMYQmGfTltY.md) — Priestley expands his AI job-displacement thesis solo
+- [The Money Making Expert: The 7,11,4 Hack That Turns $1 Into $10K Per Month! Daniel Priestley](/topics/the-money-making-expert-the-7-11-4-hack-that-tur-sFkR34AMPw8.md) — his AI-era update to the same thesis

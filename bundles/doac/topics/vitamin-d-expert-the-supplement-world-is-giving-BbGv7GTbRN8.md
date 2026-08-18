@@ -57,3 +57,5 @@ The episode presents Gominak's self-described belief system: that a hidden, fixa
 - [Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!](/topics/sleep-doctor-if-you-wake-up-at-3am-do-not-do-thi-pXlMKzcZlwM.md) — shared topic — root causes of sleep disorders
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — shared mechanism — microbiome's role in systemic health
 - [The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!](/topics/the-poo-doctor-this-cheap-spice-fixes-a-damaged-5Tr7AhkOEj4.md) — shared mechanism — repairing the gut microbiome
+- [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — rival accounts of what vitamin D deficiency really signals
+- [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — counterpoint: insomnia as vitamin-D chemistry

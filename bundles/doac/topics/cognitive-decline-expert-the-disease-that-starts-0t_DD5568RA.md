@@ -63,3 +63,5 @@ The guest's closing argument ties prevention to willpower neurobiology: the ante
 - [Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!](/topics/sleep-doctor-if-you-wake-up-at-3am-do-not-do-thi-pXlMKzcZlwM.md) — shared mechanism — sleep as brain-health lever
 - [Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!](/topics/stanford-neuroscientist-cant-remember-your-dream-m-nnyNZ0TQ0.md) — shared theme — cognitive reserve against decline
 - [Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima](/topics/womens-fitness-expert-what-you-need-to-know-abou-HwVn3WMv5oI.md) — shared theme — midlife exercise protects women's health
+- [Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!](/topics/vitamin-d-expert-the-fastest-way-to-dementia-the-wQJlGHVmdrA.md) — lifestyle pillars for preventing dementia decades early
+- [World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!](/topics/world-no-1-sleep-expert-magnesium-isnt-helping-y-qxxnRMT9C-8.md) — sleep as an Alzheimer's prevention lever

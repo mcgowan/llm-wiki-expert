@@ -58,3 +58,4 @@ The episode is an extended airing of the disclosure movement's strongest claims,
 - [Graham Hancock: They May Have Secretly Found Antarctica 300 Years Before Us!](/topics/graham-hancock-they-may-have-secretly-found-anta-Xs94KBeIiAo.md) — shared theme — suppressed-discovery claims vs skeptical scrutiny
 - [Neil deGrasse Tyson: The Whistleblowers Were Right About Aliens](/topics/neil-degrasse-tyson-the-whistleblowers-were-righ-PHpsdIHpLUE.md) — counterpoint — demands aliens, disputes disclosure claims
 - [World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku](/topics/world-renowned-physicist-they-are-lying-to-you-a-opB7_JXL0LA.md) — counterpoint — Kaku's evidence standards for UFOs
+- [Top Intelligence Advisor: “Epstein Was A Front.” They Can See Everything, Even Your Messages!](/topics/top-intelligence-advisor-epstein-was-a-front-the-t38LbMVoPCs.md) — claims of decades-long government cover-ups

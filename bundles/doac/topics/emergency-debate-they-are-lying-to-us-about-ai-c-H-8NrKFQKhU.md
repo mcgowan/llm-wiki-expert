@@ -58,3 +58,5 @@ The episode's core disagreement is never resolved: Uygur holds that AI-driven ma
 - [Tony Robbins: No One Is Ready For What's Coming (The truth about AI).](/topics/tony-robbins-no-one-is-ready-for-what-s-coming-t-I_w81rptxkc.md) — shared theme — mass AI unemployment warnings
 - [Former US Secretary: America Is On The BRINK, And We're Running Out Of Time! | Pete Buttigieg](/topics/former-us-secretary-america-is-on-the-brink-and-mF6uk7UOHBM.md) — shared theme — 2028 politics and US divisions
 - [Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber! - Dara Khosrowshahi](/topics/uber-ceo-i-have-to-be-honest-ai-will-replace-9-4-s52O1JH2tnU.md) — shared theme — AI unemployment stakes debated
+- [AI AGENTS DEBATE: These Jobs Won't Exist In 24 Months!](/topics/ai-agents-debate-these-jobs-won-t-exist-in-24-mo-JMYQmGfTltY.md) — rival debate on AI unemployment versus opportunity
+- [Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!](/topics/kevin-o-leary-every-time-you-get-paid-do-this-it-mpAZehPviLQ.md) — same guest O'Leary debating AI and jobs

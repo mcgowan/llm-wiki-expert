@@ -61,3 +61,5 @@ Hao's closing message is that the question of whether individual AI CEOs are goo
 - [Ex-Google Officer: You Only Have 3 Years Left Before It Hits! - Mo Gawdat](/topics/ex-google-officer-you-only-have-3-years-left-bef-RwlgFC6S-OE.md) — counterpoint — Gawdat treats AGI as imminent reality
 - [Global Forecaster: The Brutal 2026 Shift (And The Crisis They Can’t Stop)](/topics/global-forecaster-the-brutal-2026-shift-and-the-EVts3Ui_0AI.md) — shared theme — ungoverned AI power needs regulation
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — shared theme — concentrated power threatening democracy
+- [An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!](/topics/an-ai-expert-warning-6-people-are-quietly-decidi-P7Y-fynYsgE.md) — counterpoint: power and labor, not extinction
+- [AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris](/topics/ai-expert-here-is-what-the-world-looks-like-in-2-BFU1OCkhBwo.md) — Hao reframes the same race as corporate empire-building

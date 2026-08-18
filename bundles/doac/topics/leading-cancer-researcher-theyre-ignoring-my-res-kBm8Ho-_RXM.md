@@ -60,3 +60,6 @@ The guest's message to patients and families is that they are not helpless: he c
 - [Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin](/topics/fatty-liver-expert-the-toxic-ingredient-silently-zc8Nh4TMB1s.md) — complementary angle — carb restriction as metabolic therapy
 - [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](/topics/insulin-expert-how-to-drain-your-liver-of-fat-do-C7LL7VwP8Nc.md) — shared mechanism — ketosis as metabolic therapy
 - [The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!](/topics/the-mitochondria-doctor-this-reverses-gray-hair-6xlmaorRY0w.md) — shared mechanism — mitochondrial dysfunction drives disease
+- [World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!](/topics/world-no-1-fasting-expert-the-link-between-cance-jDG1m_b5Ih0.md) — fasting and glucose restriction as cancer therapy
+- [This Common Food Is Feeding Your Cancer Cells - Dr. William Li](/topics/this-common-food-is-feeding-your-cancer-cells-dr-LgsJ3V9pIG0.md) — Seyfried's rival metabolic theory of cancer
+- [The Keto Psychiatrist: What Keto Is Really Doing To Your Body! Can It Cure 43% Of Mental Illness?](/topics/the-keto-psychiatrist-what-keto-is-really-doing-B7tnfSPySb0.md) — ketogenic therapy against mainstream medical resistance

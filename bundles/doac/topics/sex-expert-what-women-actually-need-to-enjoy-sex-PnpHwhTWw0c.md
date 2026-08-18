@@ -57,3 +57,4 @@ Malik's overarching message is that great sex is downstream of general health an
 - [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](/topics/dr-rachel-rubin-i-m-filled-with-rage-your-doctor-MM-Qhlxf1pM.md) — fellow urologists on women's sexual health
 - [Peptide Expert: What Do Peptides Actually Do? (EXPLAINED) - Dr Alex Tatem](/topics/peptide-expert-what-do-peptides-actually-do-expl-jt5hHb6kzYM.md) — fellow urologist — hormones and sexual health
 - [World No.1 Divorce Lawyer: If You Do This, Your Marriage Is Already Over.](/topics/world-no-1-divorce-lawyer-if-you-do-this-your-ma-Uvy5mcLiWW0.md) — complementary angle — intimacy and relationship maintenance
+- [Get Your Sex Life Back! What Everyone Gets Wrong About Sex, Libido & Erectile Dysfunction - Dr Khera](/topics/get-your-sex-life-back-what-everyone-gets-wrong-IgW1jepnJp4.md) — urologists framing sexual function as cardiovascular barometer

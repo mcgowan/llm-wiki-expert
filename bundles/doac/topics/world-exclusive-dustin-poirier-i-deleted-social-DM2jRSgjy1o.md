@@ -58,3 +58,7 @@ The episode is presented as a case study in what happens when an elite athlete's
 - [Bruno Fernandes: Roy Keane Twisted My Words. They Offered Me £200M, I Said No.](/topics/bruno-fernandes-roy-keane-twisted-my-words-they-qel8Fyt78fk.md) — shared theme — elite athletes under public pressure
 - [Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?)](/topics/dopamine-expert-how-tiktok-is-physically-rewirin-2ZKLaUbB33o.md) — lived example — alcohol and social-media addiction recovery
 - [World's Greatest Climber: If I Had One Last Climb It Would Be...](/topics/world-s-greatest-climber-if-i-had-one-last-climb-ajgwabD4_HE.md) — shared theme — risk and identity in dangerous sports
+- [Chris Eubank Jr: I Was Paid $***** For The Fight! The Night Before, Dad Finally Opened Up!](/topics/chris-eubank-jr-i-was-paid-for-the-fight-the-nig-OsAlLgGf9JM.md) — fighters unpacking a difficult father and post-fight void
+- [Corrupt Cop: I Had Sex With Girls In My Police Car, Arrested Drug Dealers, Then Sold Their Drugs!](/topics/corrupt-cop-i-had-sex-with-girls-in-my-police-ca-NSsx6mkiaf8.md) — arrest as the rock bottom that ends the lying
+- [Alcohol Rewires Your Brain - Dr. Sarah Wakeman](/topics/alcohol-rewires-your-brain-dr-sarah-wakeman-Fg7U-BhiZGE.md) — lived case of the drinking-and-trauma pattern described
+- [Tom Aspinall Opens Up About Brain Damage & His Future In the UFC](/topics/tom-aspinall-opens-up-about-brain-damage-his-fut-puc5pZVsFPY.md) — UFC fighters facing CTE and retirement's void

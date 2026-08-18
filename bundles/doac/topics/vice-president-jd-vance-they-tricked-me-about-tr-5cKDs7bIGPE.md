@@ -59,3 +59,5 @@ The episode presents Vance's own account of a political and personal conversion:
 - [No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)](/topics/no-1-christianity-expert-the-truth-about-christi-nrwNSSyKuD4.md) — complementary angle — faith answering modern meaning crisis
 - [Pulitzer Historian: The Next Stage Is Democracy Collapse - Anne Applebaum](/topics/pulitzer-historian-the-next-stage-is-democracy-c-kwEtOyaFhCA.md) — counterpoint — Applebaum indicts Trump administration tactics
 - [WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!](/topics/ww3-threat-assessment-trump-bombing-iran-makes-w-e9dljIL4rBk.md) — shared topic — the Iran strike he defends
+- [America Is at Breaking Point, Is Gavin Newsom America’s Next President?](/topics/america-is-at-breaking-point-is-gavin-newsom-ame-1NLoTuRR3hE.md) — direct opposite verdict on Trump's second term
+- [Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!](/topics/kamala-harris-america-is-at-breaking-point-i-m-d-D3lhrrXb4WI.md) — opposing 2024 tickets giving their accounts of the election

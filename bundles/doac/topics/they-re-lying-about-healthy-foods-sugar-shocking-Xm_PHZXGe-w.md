@@ -60,3 +60,6 @@ The guest's closing message is that pregnancy is a window of outsized influence:
 - [Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin](/topics/fatty-liver-expert-the-toxic-ingredient-silently-zc8Nh4TMB1s.md) — shared theme — hidden sugar and glucose harms
 - [Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)](/topics/insulin-expert-how-to-drain-your-liver-of-fat-do-C7LL7VwP8Nc.md) — shared theme — glucose control and misleading food marketing
 - [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](/topics/the-microbiome-doctor-doctors-were-wrong-the-3-f-w3dTmyZq4Qk.md) — shared theme — food industry misleads on nutrition
+- [No. 1 Sugar Expert: You've Been Sold A Lie About "Healthy" Food!](/topics/no-1-sugar-expert-you-ve-been-sold-a-lie-about-h-ZE_H7rijrVk.md) — allied attack on food marketing and hidden glucose
+- [The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!](/topics/the-sugar-doctor-the-simple-diet-that-prevents-8-QXUNnXHXeVQ.md) — Inchauspé applies glucose control to pregnancy
+- [The Nutritional Scientist: Do Not Eat After 9pm! Link Between Chewing & Belly Fat!](/topics/the-nutritional-scientist-do-not-eat-after-9pm-l-eOnIWDMNyfE.md) — shared attack on food marketing and glucose spikes

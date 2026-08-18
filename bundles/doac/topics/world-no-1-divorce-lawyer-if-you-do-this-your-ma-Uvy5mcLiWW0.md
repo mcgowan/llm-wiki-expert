@@ -56,3 +56,7 @@ Sexton's closing register is unexpectedly tender for a divorce lawyer: every mar
 
 - [Sex Expert: What Women Actually Need To Enjoy Sex](/topics/sex-expert-what-women-actually-need-to-enjoy-sex-PnpHwhTWw0c.md) — complementary angle — intimacy and relationship maintenance
 - [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](/topics/dr-rachel-rubin-i-m-filled-with-rage-your-doctor-MM-Qhlxf1pM.md) — complementary — sexual health strains untreated in marriages
+- [Sex Expert (Esther Perel): The Relationship Crisis No One Talks About That's Killing Your Sex Life!](/topics/sex-expert-esther-perel-the-relationship-crisis-QCaFWrT0j-g.md) — slippage and lost rituals as how couples disconnect
+- [Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!](/topics/kevin-o-leary-every-time-you-get-paid-do-this-it-mpAZehPviLQ.md) — tests his claim that marriage is your biggest financial decision
+- [Paul Brunson: Women Need To Lower Their Standards! If They Have These 3 Traits, Never Let Them Go!](/topics/paul-brunson-women-need-to-lower-their-standards-6ikIGGi859w.md) — disagrees on whether longevity signals a good marriage
+- [World Expert on Love: Your Brain Already Picked Your Partner (But They’re Lying About Monogamy)](/topics/world-expert-on-love-your-brain-already-picked-y-hxsnk90VwCo.md) — tests her monogamy-as-construct claim against marriage practice

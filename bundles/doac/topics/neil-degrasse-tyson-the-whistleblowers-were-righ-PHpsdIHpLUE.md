@@ -61,3 +61,4 @@ Beneath the alien headline, the guest's consistent argument is epistemic discipl
 - [Graham Hancock: They May Have Secretly Found Antarctica 300 Years Before Us!](/topics/graham-hancock-they-may-have-secretly-found-anta-Xs94KBeIiAo.md) — counterpoint — mainstream evidence standards vs fringe claims
 - [UFO Roundtable: Former CIA Scientist Proves Aliens Exist!](/topics/ufo-roundtable-former-cia-scientist-proves-alien-V-z0k5xu1hM.md) — counterpoint — demands aliens, disputes disclosure claims
 - [World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku](/topics/world-renowned-physicist-they-are-lying-to-you-a-opB7_JXL0LA.md) — shared theme — physics, UFO evidence, simulation hypothesis
+- [Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it’s true)](/topics/neil-degrasse-tyson-the-harsh-truth-about-horosc-gW3vVIFRVhw.md) — same guest applying evidence standards to aliens instead

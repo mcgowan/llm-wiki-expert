@@ -57,3 +57,4 @@ Fernandes presents loyalty, character, and family as the through-line of his car
 - [WORLD EXCLUSIVE: Dustin Poirier: "I Deleted Social Media After The Incident](/topics/world-exclusive-dustin-poirier-i-deleted-social-DM2jRSgjy1o.md) — shared theme — elite athletes under public pressure
 - [World's Greatest Climber: If I Had One Last Climb It Would Be...](/topics/world-s-greatest-climber-if-i-had-one-last-climb-ajgwabD4_HE.md) — shared theme — mastery and performance psychology
 - [Ivanka Trump: Most People Can’t Tell Signal From Noise](/topics/ivanka-trump-most-people-cant-tell-signal-from-n-7VxeyTfhBM8.md) — shared theme — public scrutiny and family first
+- [Jürgen Klopp: Would You Go Back To Manage LFC...? The Real Reason I Fell In Love With Liverpool!](/topics/jurgen-klopp-would-you-go-back-to-manage-lfc-the-UMy6GESNkDc.md) — player's view of the Manchester United job Klopp refused

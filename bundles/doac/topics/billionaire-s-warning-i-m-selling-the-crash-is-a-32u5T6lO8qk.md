@@ -59,3 +59,6 @@ Grantham's through-line is that humans are chronically short-term and optimistic
 - [Financial Crash Expert: The 90-Day Collapse Timeline They Are Desperately Hiding.](/topics/financial-crash-expert-the-90-day-collapse-timel-PUO51DoSEqk.md) — shared forecast — AI bubble heading for crash
 - [Scott Galloway: The Rich Are Quietly Preparing For The AI Collapse](/topics/scott-galloway-the-rich-are-quietly-preparing-fo-NdU6UdUKaYc.md) — shared forecast — major AI market correction coming
 - [Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!](/topics/stock-expert-becoming-rich-is-simple-but-you-won-jLFG_FZKbks.md) — counterpoint — stay-the-course vs sell US stocks
+- [Ray Dalio: We’re Heading Into Very, Very Dark Times! America & The UK’s Decline Is Coming!](/topics/ray-dalio-were-heading-into-very-very-dark-times-49RT6SQ8n0Y.md) — Grantham's parallel diversify-out-of-America call
+- [The Savings Expert: The Truth About America Collapsing! The Cost Of Living Is About To Skyrocket!](/topics/the-savings-expert-the-truth-about-america-colla-uxu37dqVR90.md) — Grantham turns the same caution into selling US stocks
+- [Invest in This – It’ll Be Worth $1.5 Million by 2030 | World Leading Investing Expert - Cathie Wood](/topics/invest-in-this-itll-be-worth-1-5-million-by-2030-ZznpMh0DegE.md) — Grantham calls the same AI story a bubble

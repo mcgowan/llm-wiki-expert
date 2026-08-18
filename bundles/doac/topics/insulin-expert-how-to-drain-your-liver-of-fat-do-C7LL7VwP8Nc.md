@@ -62,3 +62,5 @@ The guest's closing advice to a struggling would-be dieter is behavioral as much
 - [Peptide Expert: What Do Peptides Actually Do? (EXPLAINED) - Dr Alex Tatem](/topics/peptide-expert-what-do-peptides-actually-do-expl-jt5hHb6kzYM.md) — counterpoint — claims keto beats GLP-1 drugs
 - [Leading Cancer Researcher: They’re Ignoring My Research](/topics/leading-cancer-researcher-theyre-ignoring-my-res-kBm8Ho-_RXM.md) — shared mechanism — ketosis as metabolic therapy
 - [They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You](/topics/they-re-lying-about-healthy-foods-sugar-shocking-Xm_PHZXGe-w.md) — shared theme — glucose control and misleading food marketing
+- [World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!](/topics/world-no-1-fasting-expert-the-link-between-cance-jDG1m_b5Ih0.md) — whole-plant-food versus ketogenic routes to metabolic repair
+- [The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!](/topics/the-insulin-glucose-doctor-this-will-strip-your-NyFSkGMWP5Q.md) — Bikman's companion episode on liver fat
